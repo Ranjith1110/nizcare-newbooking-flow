@@ -1,0 +1,10848 @@
+{
+  "0": {
+    "zipcode": "122505",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "1": {
+    "zipcode": "122107",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "2": {
+    "zipcode": "122001",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "3": {
+    "zipcode": "122504",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "4": {
+    "zipcode": "122102",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "5": {
+    "zipcode": "122051",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "6": {
+    "zipcode": "122101",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "7": {
+    "zipcode": "122006",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "8": {
+    "zipcode": "122105",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "9": {
+    "zipcode": "122413",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "10": {
+    "zipcode": "122010",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "11": {
+    "zipcode": "122003",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "12": {
+    "zipcode": "122011",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "13": {
+    "zipcode": "122414",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "14": {
+    "zipcode": "122004",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "15": {
+    "zipcode": "122008",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "16": {
+    "zipcode": "122002",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "17": {
+    "zipcode": "122016",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "18": {
+    "zipcode": "122052",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "19": {
+    "zipcode": "122108",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "20": {
+    "zipcode": "122015",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "21": {
+    "zipcode": "122017",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "22": {
+    "zipcode": "122009",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "23": {
+    "zipcode": "122018",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "24": {
+    "zipcode": "122007",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "25": {
+    "zipcode": "122005",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "26": {
+    "zipcode": "122022",
+    "city_id": "23",
+    "state_id": "26"
+  },
+  "27": {
+    "zipcode": "203131",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "28": {
+    "zipcode": "203203",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "29": {
+    "zipcode": "203141",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "30": {
+    "zipcode": "203155",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "31": {
+    "zipcode": "203209",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "32": {
+    "zipcode": "203135",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "33": {
+    "zipcode": "203201",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "34": {
+    "zipcode": "201312",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "35": {
+    "zipcode": "201309",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "36": {
+    "zipcode": "201301",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "37": {
+    "zipcode": "201307",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "38": {
+    "zipcode": "201008",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "39": {
+    "zipcode": "201305",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "40": {
+    "zipcode": "201304",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "41": {
+    "zipcode": "201303",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "42": {
+    "zipcode": "201314",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "43": {
+    "zipcode": "201313",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "44": {
+    "zipcode": "201316",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "45": {
+    "zipcode": "201317",
+    "city_id": "1428",
+    "state_id": "442"
+  },
+  "46": {
+    "zipcode": "121004",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "47": {
+    "zipcode": "121001",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "48": {
+    "zipcode": "121007",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "49": {
+    "zipcode": "121008",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "50": {
+    "zipcode": "121010",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "51": {
+    "zipcode": "121012",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "52": {
+    "zipcode": "121002",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "53": {
+    "zipcode": "121006",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "54": {
+    "zipcode": "121005",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "55": {
+    "zipcode": "121003",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "56": {
+    "zipcode": "121009",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "57": {
+    "zipcode": "121013",
+    "city_id": "1429",
+    "state_id": "26"
+  },
+  "58": {
+    "zipcode": "360001",
+    "city_id": "1433",
+    "state_id": "444"
+  },
+  "59": {
+    "zipcode": "394620",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "60": {
+    "zipcode": "394355",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "61": {
+    "zipcode": "394651",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "62": {
+    "zipcode": "394375",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "63": {
+    "zipcode": "394630",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "64": {
+    "zipcode": "394601",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "65": {
+    "zipcode": "394350",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "66": {
+    "zipcode": "394380",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "67": {
+    "zipcode": "394655",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "68": {
+    "zipcode": "396510",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "69": {
+    "zipcode": "394670",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "70": {
+    "zipcode": "394370",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "71": {
+    "zipcode": "394365",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "72": {
+    "zipcode": "394163",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "73": {
+    "zipcode": "394326",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "74": {
+    "zipcode": "394716",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "75": {
+    "zipcode": "394160",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "76": {
+    "zipcode": "394325",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "77": {
+    "zipcode": "394180",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "78": {
+    "zipcode": "394690",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "79": {
+    "zipcode": "394335",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "80": {
+    "zipcode": "394340",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "81": {
+    "zipcode": "394170",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "82": {
+    "zipcode": "394330",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "83": {
+    "zipcode": "394150",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "84": {
+    "zipcode": "394680",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "85": {
+    "zipcode": "394360",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "86": {
+    "zipcode": "394248",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "87": {
+    "zipcode": "394641",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "88": {
+    "zipcode": "394246",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "89": {
+    "zipcode": "394650",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "90": {
+    "zipcode": "394715",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "91": {
+    "zipcode": "394305",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "92": {
+    "zipcode": "394635",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "93": {
+    "zipcode": "394352",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "94": {
+    "zipcode": "394320",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "95": {
+    "zipcode": "394640",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "96": {
+    "zipcode": "394140",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "97": {
+    "zipcode": "394633",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "98": {
+    "zipcode": "394240",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "99": {
+    "zipcode": "394317",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "100": {
+    "zipcode": "394250",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "101": {
+    "zipcode": "394155",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "102": {
+    "zipcode": "394245",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "103": {
+    "zipcode": "394315",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "104": {
+    "zipcode": "394345",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "105": {
+    "zipcode": "394660",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "106": {
+    "zipcode": "394190",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "107": {
+    "zipcode": "394327",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "108": {
+    "zipcode": "393130",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "109": {
+    "zipcode": "393050",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "110": {
+    "zipcode": "392150",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "111": {
+    "zipcode": "393125",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "112": {
+    "zipcode": "395005",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "113": {
+    "zipcode": "394405",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "114": {
+    "zipcode": "394125",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "115": {
+    "zipcode": "394445",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "116": {
+    "zipcode": "395010",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "117": {
+    "zipcode": "394540",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "118": {
+    "zipcode": "394430",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "119": {
+    "zipcode": "394210",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "120": {
+    "zipcode": "394410",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "121": {
+    "zipcode": "395001",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "122": {
+    "zipcode": "394130",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "123": {
+    "zipcode": "394120",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "124": {
+    "zipcode": "394107",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "125": {
+    "zipcode": "394520",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "126": {
+    "zipcode": "394110",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "127": {
+    "zipcode": "395003",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "128": {
+    "zipcode": "395009",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "129": {
+    "zipcode": "394517",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "130": {
+    "zipcode": "395007",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "131": {
+    "zipcode": "394105",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "132": {
+    "zipcode": "395008",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "133": {
+    "zipcode": "395023",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "134": {
+    "zipcode": "394235",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "135": {
+    "zipcode": "394230",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "136": {
+    "zipcode": "394515",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "137": {
+    "zipcode": "394440",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "138": {
+    "zipcode": "394221",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "139": {
+    "zipcode": "395012",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "140": {
+    "zipcode": "395006",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "141": {
+    "zipcode": "394421",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "142": {
+    "zipcode": "394516",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "143": {
+    "zipcode": "395017",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "144": {
+    "zipcode": "394510",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "145": {
+    "zipcode": "394270",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "146": {
+    "zipcode": "395004",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "147": {
+    "zipcode": "394518",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "148": {
+    "zipcode": "395011",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "149": {
+    "zipcode": "395002",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "150": {
+    "zipcode": "394530",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "151": {
+    "zipcode": "394101",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "152": {
+    "zipcode": "394111",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "153": {
+    "zipcode": "394550",
+    "city_id": "1435",
+    "state_id": "444"
+  },
+  "154": {
+    "zipcode": "390004",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "155": {
+    "zipcode": "390001",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "156": {
+    "zipcode": "390011",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "157": {
+    "zipcode": "390009",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "158": {
+    "zipcode": "390006",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "159": {
+    "zipcode": "390010",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "160": {
+    "zipcode": "390013",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "161": {
+    "zipcode": "390017",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "162": {
+    "zipcode": "390018",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "163": {
+    "zipcode": "390025",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "164": {
+    "zipcode": "391740",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "165": {
+    "zipcode": "391410",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "166": {
+    "zipcode": "391101",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "167": {
+    "zipcode": "390016",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "168": {
+    "zipcode": "390021",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "169": {
+    "zipcode": "390012",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "170": {
+    "zipcode": "391320",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "171": {
+    "zipcode": "390023",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "172": {
+    "zipcode": "390007",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "173": {
+    "zipcode": "391750",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "174": {
+    "zipcode": "391310",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "175": {
+    "zipcode": "391345",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "176": {
+    "zipcode": "390020",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "177": {
+    "zipcode": "390003",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "178": {
+    "zipcode": "390002",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "179": {
+    "zipcode": "390024",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "180": {
+    "zipcode": "390008",
+    "city_id": "1436",
+    "state_id": "444"
+  },
+  "181": {
+    "zipcode": "799001",
+    "city_id": "1438",
+    "state_id": "462"
+  },
+  "182": {
+    "zipcode": "590001",
+    "city_id": "1439",
+    "state_id": "445"
+  },
+  "183": {
+    "zipcode": "574142",
+    "city_id": "1441",
+    "state_id": "445"
+  },
+  "184": {
+    "zipcode": "571604",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "185": {
+    "zipcode": "571311",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "186": {
+    "zipcode": "571103",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "187": {
+    "zipcode": "570008",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "188": {
+    "zipcode": "571601",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "189": {
+    "zipcode": "571121",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "190": {
+    "zipcode": "571114",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "191": {
+    "zipcode": "571617",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "192": {
+    "zipcode": "571130",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "193": {
+    "zipcode": "571107",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "194": {
+    "zipcode": "570026",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "195": {
+    "zipcode": "570018",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "196": {
+    "zipcode": "570004",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "197": {
+    "zipcode": "571105",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "198": {
+    "zipcode": "570005",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "199": {
+    "zipcode": "571116",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "200": {
+    "zipcode": "570007",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "201": {
+    "zipcode": "571108",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "202": {
+    "zipcode": "570009",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "203": {
+    "zipcode": "570002",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "204": {
+    "zipcode": "570017",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "205": {
+    "zipcode": "570015",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "206": {
+    "zipcode": "571602",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "207": {
+    "zipcode": "571102",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "208": {
+    "zipcode": "571603",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "209": {
+    "zipcode": "571134",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "210": {
+    "zipcode": "571104",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "211": {
+    "zipcode": "570023",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "212": {
+    "zipcode": "570010",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "213": {
+    "zipcode": "570003",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "214": {
+    "zipcode": "570019",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "215": {
+    "zipcode": "571125",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "216": {
+    "zipcode": "571187",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "217": {
+    "zipcode": "570006",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "218": {
+    "zipcode": "570001",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "219": {
+    "zipcode": "570020",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "220": {
+    "zipcode": "571610",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "221": {
+    "zipcode": "570016",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "222": {
+    "zipcode": "570014",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "223": {
+    "zipcode": "570022",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "224": {
+    "zipcode": "570012",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "225": {
+    "zipcode": "570027",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "226": {
+    "zipcode": "570011",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "227": {
+    "zipcode": "570025",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "228": {
+    "zipcode": "570029",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "229": {
+    "zipcode": "571124",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "230": {
+    "zipcode": "571101",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "231": {
+    "zipcode": "571110",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "232": {
+    "zipcode": "571314",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "233": {
+    "zipcode": "571312",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "234": {
+    "zipcode": "571120",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "235": {
+    "zipcode": "571119",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "236": {
+    "zipcode": "571315",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "237": {
+    "zipcode": "571128",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "238": {
+    "zipcode": "571302",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "239": {
+    "zipcode": "571129",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "240": {
+    "zipcode": "571118",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "241": {
+    "zipcode": "571122",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "242": {
+    "zipcode": "571301",
+    "city_id": "1442",
+    "state_id": "445"
+  },
+  "243": {
+    "zipcode": "464993",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "244": {
+    "zipcode": "462101",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "245": {
+    "zipcode": "462038",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "246": {
+    "zipcode": "462030",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "247": {
+    "zipcode": "462010",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "248": {
+    "zipcode": "462046",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "249": {
+    "zipcode": "462004",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "250": {
+    "zipcode": "462045",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "251": {
+    "zipcode": "462022",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "252": {
+    "zipcode": "463106",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "253": {
+    "zipcode": "462001",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "254": {
+    "zipcode": "462066",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "255": {
+    "zipcode": "463111",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "256": {
+    "zipcode": "462120",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "257": {
+    "zipcode": "462016",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "258": {
+    "zipcode": "462026",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "259": {
+    "zipcode": "462023",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "260": {
+    "zipcode": "462031",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "261": {
+    "zipcode": "462041",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "262": {
+    "zipcode": "462024",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "263": {
+    "zipcode": "462007",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "264": {
+    "zipcode": "462003",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "265": {
+    "zipcode": "462011",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "266": {
+    "zipcode": "462027",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "267": {
+    "zipcode": "462042",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "268": {
+    "zipcode": "462039",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "269": {
+    "zipcode": "462033",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "270": {
+    "zipcode": "462020",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "271": {
+    "zipcode": "462043",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "272": {
+    "zipcode": "462008",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "273": {
+    "zipcode": "462036",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "274": {
+    "zipcode": "462002",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "275": {
+    "zipcode": "462047",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "276": {
+    "zipcode": "462037",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "277": {
+    "zipcode": "462013",
+    "city_id": "1444",
+    "state_id": "439"
+  },
+  "278": {
+    "zipcode": "474001",
+    "city_id": "1445",
+    "state_id": "439"
+  },
+  "279": {
+    "zipcode": "452003",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "280": {
+    "zipcode": "452005",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "281": {
+    "zipcode": "452010",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "282": {
+    "zipcode": "452001",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "283": {
+    "zipcode": "452013",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "284": {
+    "zipcode": "452015",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "285": {
+    "zipcode": "452002",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "286": {
+    "zipcode": "452007",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "287": {
+    "zipcode": "452011",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "288": {
+    "zipcode": "452014",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "289": {
+    "zipcode": "452009",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "290": {
+    "zipcode": "452006",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "291": {
+    "zipcode": "452018",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "292": {
+    "zipcode": "452012",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "293": {
+    "zipcode": "453115",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "294": {
+    "zipcode": "453220",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "295": {
+    "zipcode": "453441",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "296": {
+    "zipcode": "453112",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "297": {
+    "zipcode": "453001",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "298": {
+    "zipcode": "452020",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "299": {
+    "zipcode": "453551",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "300": {
+    "zipcode": "453661",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "301": {
+    "zipcode": "453111",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "302": {
+    "zipcode": "453446",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "303": {
+    "zipcode": "453331",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "304": {
+    "zipcode": "453556",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "305": {
+    "zipcode": "453332",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "306": {
+    "zipcode": "453555",
+    "city_id": "1446",
+    "state_id": "439"
+  },
+  "307": {
+    "zipcode": "482001",
+    "city_id": "1447",
+    "state_id": "439"
+  },
+  "308": {
+    "zipcode": "456001",
+    "city_id": "1448",
+    "state_id": "439"
+  },
+  "309": {
+    "zipcode": "751021",
+    "city_id": "1450",
+    "state_id": "446"
+  },
+  "310": {
+    "zipcode": "750017",
+    "city_id": "1450",
+    "state_id": "446"
+  },
+  "311": {
+    "zipcode": "753001",
+    "city_id": "1451",
+    "state_id": "446"
+  },
+  "312": {
+    "zipcode": "752001",
+    "city_id": "1452",
+    "state_id": "446"
+  },
+  "313": {
+    "zipcode": "642205",
+    "city_id": "1454",
+    "state_id": "448"
+  },
+  "314": {
+    "zipcode": "625001",
+    "city_id": "1455",
+    "state_id": "448"
+  },
+  "315": {
+    "zipcode": "248001",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "316": {
+    "zipcode": "248007",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "317": {
+    "zipcode": "248005",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "318": {
+    "zipcode": "249204",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "319": {
+    "zipcode": "248140",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "320": {
+    "zipcode": "248008",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "321": {
+    "zipcode": "248199",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "322": {
+    "zipcode": "248196",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "323": {
+    "zipcode": "248179",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "324": {
+    "zipcode": "248165",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "325": {
+    "zipcode": "248124",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "326": {
+    "zipcode": "248123",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "327": {
+    "zipcode": "248158",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "328": {
+    "zipcode": "248006",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "329": {
+    "zipcode": "249201",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "330": {
+    "zipcode": "248143",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "331": {
+    "zipcode": "248142",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "332": {
+    "zipcode": "248141",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "333": {
+    "zipcode": "248197",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "334": {
+    "zipcode": "248159",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "335": {
+    "zipcode": "248146",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "336": {
+    "zipcode": "248125",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "337": {
+    "zipcode": "248122",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "338": {
+    "zipcode": "248171",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "339": {
+    "zipcode": "248014",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "340": {
+    "zipcode": "249202",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "341": {
+    "zipcode": "248198",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "342": {
+    "zipcode": "248003",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "343": {
+    "zipcode": "248002",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "344": {
+    "zipcode": "248121",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "345": {
+    "zipcode": "248195",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "346": {
+    "zipcode": "249205",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "347": {
+    "zipcode": "248015",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "348": {
+    "zipcode": "248009",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "349": {
+    "zipcode": "248012",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "350": {
+    "zipcode": "248145",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "351": {
+    "zipcode": "248011",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "352": {
+    "zipcode": "249203",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "353": {
+    "zipcode": "248013",
+    "city_id": "1458",
+    "state_id": "455"
+  },
+  "354": {
+    "zipcode": "134003",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "355": {
+    "zipcode": "133201",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "356": {
+    "zipcode": "133005",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "357": {
+    "zipcode": "134007",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "358": {
+    "zipcode": "133202",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "359": {
+    "zipcode": "134201",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "360": {
+    "zipcode": "133203",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "361": {
+    "zipcode": "133006",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "362": {
+    "zipcode": "134005",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "363": {
+    "zipcode": "133001",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "364": {
+    "zipcode": "133004",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "365": {
+    "zipcode": "133102",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "366": {
+    "zipcode": "133104",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "367": {
+    "zipcode": "133205",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "368": {
+    "zipcode": "134203",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "369": {
+    "zipcode": "133101",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "370": {
+    "zipcode": "133207",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "371": {
+    "zipcode": "140501",
+    "city_id": "1462",
+    "state_id": "26"
+  },
+  "372": {
+    "zipcode": "132105",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "373": {
+    "zipcode": "132108",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "374": {
+    "zipcode": "132145",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "375": {
+    "zipcode": "132122",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "376": {
+    "zipcode": "132107",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "377": {
+    "zipcode": "132104",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "378": {
+    "zipcode": "132113",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "379": {
+    "zipcode": "132140",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "380": {
+    "zipcode": "132101",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "381": {
+    "zipcode": "132102",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "382": {
+    "zipcode": "132103",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "383": {
+    "zipcode": "132115",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "384": {
+    "zipcode": "132106",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "385": {
+    "zipcode": "301714\r\n",
+    "city_id": "1463",
+    "state_id": "26"
+  },
+  "386": {
+    "zipcode": "131001",
+    "city_id": "1464",
+    "state_id": "26"
+  },
+  "387": {
+    "zipcode": "508126",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "388": {
+    "zipcode": "502032",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "389": {
+    "zipcode": "502001",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "390": {
+    "zipcode": "502325",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "391": {
+    "zipcode": "500004",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "392": {
+    "zipcode": "500075",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "393": {
+    "zipcode": "500063",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "394": {
+    "zipcode": "500001",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "395": {
+    "zipcode": "500041",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "396": {
+    "zipcode": "500018",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "397": {
+    "zipcode": "500008",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "398": {
+    "zipcode": "500032",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "399": {
+    "zipcode": "500028",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "400": {
+    "zipcode": "500095",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "401": {
+    "zipcode": "500096",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "402": {
+    "zipcode": "500006",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "403": {
+    "zipcode": "500019",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "404": {
+    "zipcode": "500091",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "405": {
+    "zipcode": "500022",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "406": {
+    "zipcode": "500084",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "407": {
+    "zipcode": "500029",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "408": {
+    "zipcode": "500045",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "409": {
+    "zipcode": "500081",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "410": {
+    "zipcode": "500033",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "411": {
+    "zipcode": "500082",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "412": {
+    "zipcode": "500038",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "413": {
+    "zipcode": "500057",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "414": {
+    "zipcode": "500031",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "415": {
+    "zipcode": "500089",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "416": {
+    "zipcode": "500034",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "417": {
+    "zipcode": "500073",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "418": {
+    "zipcode": "500065",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "419": {
+    "zipcode": "500068",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "420": {
+    "zipcode": "500076",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "421": {
+    "zipcode": "500058",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "422": {
+    "zipcode": "500079",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "423": {
+    "zipcode": "500074",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "424": {
+    "zipcode": "500036",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "425": {
+    "zipcode": "500024",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "426": {
+    "zipcode": "500039",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "427": {
+    "zipcode": "500070",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "428": {
+    "zipcode": "500044",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "429": {
+    "zipcode": "500013",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "430": {
+    "zipcode": "500060",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "431": {
+    "zipcode": "500048",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "432": {
+    "zipcode": "500059",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "433": {
+    "zipcode": "500023",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "434": {
+    "zipcode": "500027",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "435": {
+    "zipcode": "500053",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "436": {
+    "zipcode": "500064",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "437": {
+    "zipcode": "500002",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "438": {
+    "zipcode": "500030",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "439": {
+    "zipcode": "500005",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "440": {
+    "zipcode": "500097",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "441": {
+    "zipcode": "500077",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "442": {
+    "zipcode": "500069",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "443": {
+    "zipcode": "500092",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "444": {
+    "zipcode": "500035",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "445": {
+    "zipcode": "500086",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "446": {
+    "zipcode": "500066",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "447": {
+    "zipcode": "500012",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "448": {
+    "zipcode": "500007",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "449": {
+    "zipcode": "501301",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "450": {
+    "zipcode": "500016",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "451": {
+    "zipcode": "500050",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "452": {
+    "zipcode": "500037",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "453": {
+    "zipcode": "500020",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "454": {
+    "zipcode": "500003",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "455": {
+    "zipcode": "500085",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "456": {
+    "zipcode": "500055",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "457": {
+    "zipcode": "501203",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "458": {
+    "zipcode": "500025",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "459": {
+    "zipcode": "500088",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "460": {
+    "zipcode": "500067",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "461": {
+    "zipcode": "500040",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "462": {
+    "zipcode": "501401",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "463": {
+    "zipcode": "500010",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "464": {
+    "zipcode": "500100",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "465": {
+    "zipcode": "500047",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "466": {
+    "zipcode": "500087",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "467": {
+    "zipcode": "500083",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "468": {
+    "zipcode": "500062",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "469": {
+    "zipcode": "500049",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "470": {
+    "zipcode": "500056",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "471": {
+    "zipcode": "500090",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "472": {
+    "zipcode": "500011",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "473": {
+    "zipcode": "500015",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "474": {
+    "zipcode": "500017",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "475": {
+    "zipcode": "500080",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "476": {
+    "zipcode": "500054",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "477": {
+    "zipcode": "500072",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "478": {
+    "zipcode": "500026",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "479": {
+    "zipcode": "500061",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "480": {
+    "zipcode": "500042",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "481": {
+    "zipcode": "500094",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "482": {
+    "zipcode": "500014",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "483": {
+    "zipcode": "500009",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "484": {
+    "zipcode": "500093",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "485": {
+    "zipcode": "500133",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "486": {
+    "zipcode": "500078",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "487": {
+    "zipcode": "500103",
+    "city_id": "1465",
+    "state_id": "441"
+  },
+  "488": {
+    "zipcode": "524001",
+    "city_id": "1466",
+    "state_id": "441"
+  },
+  "489": {
+    "zipcode": "506001",
+    "city_id": "1470",
+    "state_id": "471"
+  },
+  "490": {
+    "zipcode": "530009",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "491": {
+    "zipcode": "530003",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "492": {
+    "zipcode": "530044",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "493": {
+    "zipcode": "530005",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "494": {
+    "zipcode": "530031",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "495": {
+    "zipcode": "530012",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "496": {
+    "zipcode": "530048",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "497": {
+    "zipcode": "530046",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "498": {
+    "zipcode": "530027",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "499": {
+    "zipcode": "530040",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "500": {
+    "zipcode": "530004",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "501": {
+    "zipcode": "530016",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "502": {
+    "zipcode": "530045",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "503": {
+    "zipcode": "530022",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "504": {
+    "zipcode": "530017",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "505": {
+    "zipcode": "530014",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "506": {
+    "zipcode": "530015",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "507": {
+    "zipcode": "530043",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "508": {
+    "zipcode": "530001",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "509": {
+    "zipcode": "530008",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "510": {
+    "zipcode": "530002",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "511": {
+    "zipcode": "530007",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "512": {
+    "zipcode": "530041",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "513": {
+    "zipcode": "530026",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "514": {
+    "zipcode": "530028",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "515": {
+    "zipcode": "530029",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "516": {
+    "zipcode": "530047",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "517": {
+    "zipcode": "530035",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "518": {
+    "zipcode": "530020",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "519": {
+    "zipcode": "530011",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "520": {
+    "zipcode": "530018",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "521": {
+    "zipcode": "530024",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "522": {
+    "zipcode": "530051",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "523": {
+    "zipcode": "530013",
+    "city_id": "1471",
+    "state_id": "441"
+  },
+  "524": {
+    "zipcode": "192124",
+    "city_id": "1472",
+    "state_id": "443"
+  },
+  "525": {
+    "zipcode": "305001",
+    "city_id": "1473",
+    "state_id": "438"
+  },
+  "526": {
+    "zipcode": "305004",
+    "city_id": "1473",
+    "state_id": "438"
+  },
+  "527": {
+    "zipcode": "334001",
+    "city_id": "1474",
+    "state_id": "438"
+  },
+  "528": {
+    "zipcode": "302029",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "529": {
+    "zipcode": "302013",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "530": {
+    "zipcode": "302016",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "531": {
+    "zipcode": "302026",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "532": {
+    "zipcode": "302015",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "533": {
+    "zipcode": "302003",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "534": {
+    "zipcode": "302004",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "535": {
+    "zipcode": "302028",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "536": {
+    "zipcode": "302006",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "537": {
+    "zipcode": "302034",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "538": {
+    "zipcode": "302033",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "539": {
+    "zipcode": "302005",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "540": {
+    "zipcode": "302001",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "541": {
+    "zipcode": "302027",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "542": {
+    "zipcode": "302012",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "543": {
+    "zipcode": "302002",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "544": {
+    "zipcode": "302017",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "545": {
+    "zipcode": "302018",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "546": {
+    "zipcode": "302031",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "547": {
+    "zipcode": "302039",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "548": {
+    "zipcode": "302022",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "549": {
+    "zipcode": "302036",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "550": {
+    "zipcode": "302037",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "551": {
+    "zipcode": "302019",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "552": {
+    "zipcode": "302021",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "553": {
+    "zipcode": "302020",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "554": {
+    "zipcode": "302040",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "555": {
+    "zipcode": "303908",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "556": {
+    "zipcode": "303901",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "557": {
+    "zipcode": "303801",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "558": {
+    "zipcode": "303712",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "559": {
+    "zipcode": "303602",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "560": {
+    "zipcode": "303305",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "561": {
+    "zipcode": "303806",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "562": {
+    "zipcode": "303603",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "563": {
+    "zipcode": "303001",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "564": {
+    "zipcode": "303107",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "565": {
+    "zipcode": "303006",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "566": {
+    "zipcode": "303804",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "567": {
+    "zipcode": "303704",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "568": {
+    "zipcode": "303102",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "569": {
+    "zipcode": "303702",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "570": {
+    "zipcode": "303905",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "571": {
+    "zipcode": "303302",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "572": {
+    "zipcode": "303103",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "573": {
+    "zipcode": "303008",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "574": {
+    "zipcode": "303106",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "575": {
+    "zipcode": "303701",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "576": {
+    "zipcode": "303338",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "577": {
+    "zipcode": "303706",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "578": {
+    "zipcode": "303503",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "579": {
+    "zipcode": "303110",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "580": {
+    "zipcode": "303604",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "581": {
+    "zipcode": "303005",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "582": {
+    "zipcode": "303509",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "583": {
+    "zipcode": "303301",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "584": {
+    "zipcode": "303105",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "585": {
+    "zipcode": "303601",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "586": {
+    "zipcode": "303904",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "587": {
+    "zipcode": "303108",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "588": {
+    "zipcode": "303329",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "589": {
+    "zipcode": "303328",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "590": {
+    "zipcode": "303348",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "591": {
+    "zipcode": "303805",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "592": {
+    "zipcode": "303007",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "593": {
+    "zipcode": "303120",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "594": {
+    "zipcode": "303807",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "595": {
+    "zipcode": "303009",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "596": {
+    "zipcode": "303003",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "597": {
+    "zipcode": "303002",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "598": {
+    "zipcode": "303109",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "599": {
+    "zipcode": "303903",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "600": {
+    "zipcode": "303803",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "601": {
+    "zipcode": "303104",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "602": {
+    "zipcode": "303012",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "603": {
+    "zipcode": "303119",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "604": {
+    "zipcode": "303507",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "605": {
+    "zipcode": "303121",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "606": {
+    "zipcode": "303122",
+    "city_id": "1475",
+    "state_id": "438"
+  },
+  "607": {
+    "zipcode": "223233",
+    "city_id": "1476",
+    "state_id": "438"
+  },
+  "608": {
+    "zipcode": "324001",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "609": {
+    "zipcode": "325003",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "610": {
+    "zipcode": "324008",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "611": {
+    "zipcode": "324006",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "612": {
+    "zipcode": "324002",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "613": {
+    "zipcode": "324005",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "614": {
+    "zipcode": "324007",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "615": {
+    "zipcode": "323021",
+    "city_id": "1477",
+    "state_id": "438"
+  },
+  "616": {
+    "zipcode": "313001",
+    "city_id": "1478",
+    "state_id": "438"
+  },
+  "617": {
+    "zipcode": "440010",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "618": {
+    "zipcode": "440013",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "619": {
+    "zipcode": "440022",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "620": {
+    "zipcode": "440018",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "621": {
+    "zipcode": "440034",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "622": {
+    "zipcode": "440001",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "623": {
+    "zipcode": "440015",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "624": {
+    "zipcode": "440007",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "625": {
+    "zipcode": "440027",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "626": {
+    "zipcode": "440014",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "627": {
+    "zipcode": "440019",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "628": {
+    "zipcode": "440024",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "629": {
+    "zipcode": "440035",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "630": {
+    "zipcode": "440030",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "631": {
+    "zipcode": "440012",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "632": {
+    "zipcode": "440003",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "633": {
+    "zipcode": "440025",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "634": {
+    "zipcode": "440032",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "635": {
+    "zipcode": "440017",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "636": {
+    "zipcode": "440020",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "637": {
+    "zipcode": "440026",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "638": {
+    "zipcode": "440005",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "639": {
+    "zipcode": "440002",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "640": {
+    "zipcode": "440033",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "641": {
+    "zipcode": "440008",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "642": {
+    "zipcode": "440037",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "643": {
+    "zipcode": "440036",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "644": {
+    "zipcode": "440006",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "645": {
+    "zipcode": "440016",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "646": {
+    "zipcode": "441203",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "647": {
+    "zipcode": "441102",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "648": {
+    "zipcode": "441108",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "649": {
+    "zipcode": "441113",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "650": {
+    "zipcode": "441204",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "651": {
+    "zipcode": "441305",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "652": {
+    "zipcode": "441202",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "653": {
+    "zipcode": "441103",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "654": {
+    "zipcode": "441104",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "655": {
+    "zipcode": "441201",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "656": {
+    "zipcode": "441110",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "657": {
+    "zipcode": "441106",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "658": {
+    "zipcode": "441302",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "659": {
+    "zipcode": "441301",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "660": {
+    "zipcode": "441304",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "661": {
+    "zipcode": "441122",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "662": {
+    "zipcode": "441107",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "663": {
+    "zipcode": "441123",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "664": {
+    "zipcode": "441105",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "665": {
+    "zipcode": "441001",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "666": {
+    "zipcode": "441112",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "667": {
+    "zipcode": "441214",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "668": {
+    "zipcode": "441303",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "669": {
+    "zipcode": "441101",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "670": {
+    "zipcode": "441502",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "671": {
+    "zipcode": "441111",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "672": {
+    "zipcode": "440021",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "673": {
+    "zipcode": "441109",
+    "city_id": "1485",
+    "state_id": "440"
+  },
+  "674": {
+    "zipcode": "411019",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "675": {
+    "zipcode": "411015",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "676": {
+    "zipcode": "411028",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "677": {
+    "zipcode": "411026",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "678": {
+    "zipcode": "411018",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "679": {
+    "zipcode": "411033",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "680": {
+    "zipcode": "411022",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "681": {
+    "zipcode": "411037",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "682": {
+    "zipcode": "411014",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "683": {
+    "zipcode": "411006",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "684": {
+    "zipcode": "411003",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "685": {
+    "zipcode": "411001",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "686": {
+    "zipcode": "411062",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "687": {
+    "zipcode": "411048",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "688": {
+    "zipcode": "411032",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "689": {
+    "zipcode": "411035",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "690": {
+    "zipcode": "411034",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "691": {
+    "zipcode": "411036",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "692": {
+    "zipcode": "411017",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "693": {
+    "zipcode": "411057",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "694": {
+    "zipcode": "411040",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "695": {
+    "zipcode": "411031",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "696": {
+    "zipcode": "411047",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "697": {
+    "zipcode": "411039",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "698": {
+    "zipcode": "411013",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "699": {
+    "zipcode": "411061",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "700": {
+    "zipcode": "411044",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "701": {
+    "zipcode": "411027",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "702": {
+    "zipcode": "411012",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "703": {
+    "zipcode": "411060",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "704": {
+    "zipcode": "411016",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "705": {
+    "zipcode": "411004",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "706": {
+    "zipcode": "411043",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "707": {
+    "zipcode": "411007",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "708": {
+    "zipcode": "411042",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "709": {
+    "zipcode": "411058",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "710": {
+    "zipcode": "411020",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "711": {
+    "zipcode": "411041",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "712": {
+    "zipcode": "411011",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "713": {
+    "zipcode": "411045",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "714": {
+    "zipcode": "411030",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "715": {
+    "zipcode": "411002",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "716": {
+    "zipcode": "411038",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "717": {
+    "zipcode": "411005",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "718": {
+    "zipcode": "411023",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "719": {
+    "zipcode": "411008",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "720": {
+    "zipcode": "411046",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "721": {
+    "zipcode": "411052",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "722": {
+    "zipcode": "411051",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "723": {
+    "zipcode": "411021",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "724": {
+    "zipcode": "411009",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "725": {
+    "zipcode": "411024",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "726": {
+    "zipcode": "413132",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "727": {
+    "zipcode": "410501",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "728": {
+    "zipcode": "412410",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "729": {
+    "zipcode": "412212",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "730": {
+    "zipcode": "410509",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "731": {
+    "zipcode": "412301",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "732": {
+    "zipcode": "412106",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "733": {
+    "zipcode": "412115",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "734": {
+    "zipcode": "413106",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "735": {
+    "zipcode": "412411",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "736": {
+    "zipcode": "410513",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "737": {
+    "zipcode": "412218",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "738": {
+    "zipcode": "410505",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "739": {
+    "zipcode": "412402",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "740": {
+    "zipcode": "412216",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "741": {
+    "zipcode": "412408",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "742": {
+    "zipcode": "412401",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "743": {
+    "zipcode": "412205",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "744": {
+    "zipcode": "412306",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "745": {
+    "zipcode": "413104",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "746": {
+    "zipcode": "410502",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "747": {
+    "zipcode": "410401",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "748": {
+    "zipcode": "412219",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "749": {
+    "zipcode": "413115",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "750": {
+    "zipcode": "412104",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "751": {
+    "zipcode": "412311",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "752": {
+    "zipcode": "412305",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "753": {
+    "zipcode": "412304",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "754": {
+    "zipcode": "412220",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "755": {
+    "zipcode": "410504",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "756": {
+    "zipcode": "412107",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "757": {
+    "zipcode": "412308",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "758": {
+    "zipcode": "413103",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "759": {
+    "zipcode": "411025",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "760": {
+    "zipcode": "412206",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "761": {
+    "zipcode": "412211",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "762": {
+    "zipcode": "412202",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "763": {
+    "zipcode": "413133",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "764": {
+    "zipcode": "413130",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "765": {
+    "zipcode": "410516",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "766": {
+    "zipcode": "412210",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "767": {
+    "zipcode": "412105",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "768": {
+    "zipcode": "410506",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "769": {
+    "zipcode": "412110",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "770": {
+    "zipcode": "412409",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "771": {
+    "zipcode": "412207",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "772": {
+    "zipcode": "410405",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "773": {
+    "zipcode": "412303",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "774": {
+    "zipcode": "412214",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "775": {
+    "zipcode": "413105",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "776": {
+    "zipcode": "412203",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "777": {
+    "zipcode": "412112",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "778": {
+    "zipcode": "412208",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "779": {
+    "zipcode": "410507",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "780": {
+    "zipcode": "410403",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "781": {
+    "zipcode": "413110",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "782": {
+    "zipcode": "412204",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "783": {
+    "zipcode": "413120",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "784": {
+    "zipcode": "412404",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "785": {
+    "zipcode": "412108",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "786": {
+    "zipcode": "413114",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "787": {
+    "zipcode": "410503",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "788": {
+    "zipcode": "412307",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "789": {
+    "zipcode": "410302",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "790": {
+    "zipcode": "412412",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "791": {
+    "zipcode": "412209",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "792": {
+    "zipcode": "412312",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "793": {
+    "zipcode": "412201",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "794": {
+    "zipcode": "412101",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "795": {
+    "zipcode": "412109",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "796": {
+    "zipcode": "410515",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "797": {
+    "zipcode": "413116",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "798": {
+    "zipcode": "412213",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "799": {
+    "zipcode": "410512",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "800": {
+    "zipcode": "410510",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "801": {
+    "zipcode": "412403",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "802": {
+    "zipcode": "410406",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "803": {
+    "zipcode": "412103",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "804": {
+    "zipcode": "410402",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "805": {
+    "zipcode": "412102",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "806": {
+    "zipcode": "410511",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "807": {
+    "zipcode": "410508",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "808": {
+    "zipcode": "412405",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "809": {
+    "zipcode": "410301",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "810": {
+    "zipcode": "412406",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "811": {
+    "zipcode": "413802",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "812": {
+    "zipcode": "412215",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "813": {
+    "zipcode": "411029",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "814": {
+    "zipcode": "411067",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "815": {
+    "zipcode": "411068",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "816": {
+    "zipcode": "Pune",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "817": {
+    "zipcode": " Maha",
+    "city_id": "1487",
+    "state_id": "440"
+  },
+  "818": {
+    "zipcode": "382424",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "819": {
+    "zipcode": "380027",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "820": {
+    "zipcode": "380001",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "821": {
+    "zipcode": "380050",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "822": {
+    "zipcode": "380024",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "823": {
+    "zipcode": "380015",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "824": {
+    "zipcode": "380014",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "825": {
+    "zipcode": "382415",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "826": {
+    "zipcode": "380019",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "827": {
+    "zipcode": "380023",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "828": {
+    "zipcode": "382405",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "829": {
+    "zipcode": "380018",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "830": {
+    "zipcode": "380058",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "831": {
+    "zipcode": "382350",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "832": {
+    "zipcode": "380013",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "833": {
+    "zipcode": "380007",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "834": {
+    "zipcode": "380022",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "835": {
+    "zipcode": "380028",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "836": {
+    "zipcode": "380008",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "837": {
+    "zipcode": "380006",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "838": {
+    "zipcode": "380026",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "839": {
+    "zipcode": "380004",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "840": {
+    "zipcode": "380002",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "841": {
+    "zipcode": "380009",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "842": {
+    "zipcode": "380005",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "843": {
+    "zipcode": "382480",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "844": {
+    "zipcode": "380051",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "845": {
+    "zipcode": "380016",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "846": {
+    "zipcode": "380021",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "847": {
+    "zipcode": "382443",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "848": {
+    "zipcode": "382345",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "849": {
+    "zipcode": "380054",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "850": {
+    "zipcode": "380055",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "851": {
+    "zipcode": "380061",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "852": {
+    "zipcode": "380052",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "853": {
+    "zipcode": "382475",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "854": {
+    "zipcode": "380063",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "855": {
+    "zipcode": "382120",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "856": {
+    "zipcode": "382470",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "857": {
+    "zipcode": "382481",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "858": {
+    "zipcode": "382170",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "859": {
+    "zipcode": "382115",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "860": {
+    "zipcode": "380059",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "861": {
+    "zipcode": "380049",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "862": {
+    "zipcode": "380060",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "863": {
+    "zipcode": "382330",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "864": {
+    "zipcode": "382340",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "865": {
+    "zipcode": "382418",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "866": {
+    "zipcode": "382445",
+    "city_id": "1488",
+    "state_id": "444"
+  },
+  "867": {
+    "zipcode": "812001",
+    "city_id": "1493",
+    "state_id": "449"
+  },
+  "868": {
+    "zipcode": "846001",
+    "city_id": "1494",
+    "state_id": "449"
+  },
+  "869": {
+    "zipcode": "823001",
+    "city_id": "1495",
+    "state_id": "449"
+  },
+  "870": {
+    "zipcode": "842001",
+    "city_id": "1496",
+    "state_id": "449"
+  },
+  "871": {
+    "zipcode": "801507",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "872": {
+    "zipcode": "801503",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "873": {
+    "zipcode": "800001",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "874": {
+    "zipcode": "800020",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "875": {
+    "zipcode": "800026",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "876": {
+    "zipcode": "800016",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "877": {
+    "zipcode": "800002",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "878": {
+    "zipcode": "800010",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "879": {
+    "zipcode": "800012",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "880": {
+    "zipcode": "800007",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "881": {
+    "zipcode": "800005",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "882": {
+    "zipcode": "800025",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "883": {
+    "zipcode": "800014",
+    "city_id": "1497",
+    "state_id": "449"
+  },
+  "884": {
+    "zipcode": "844101",
+    "city_id": "1498",
+    "state_id": "449"
+  },
+  "885": {
+    "zipcode": "143001",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "886": {
+    "zipcode": "143501",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "887": {
+    "zipcode": "143008",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "888": {
+    "zipcode": "143006",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "889": {
+    "zipcode": "143005",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "890": {
+    "zipcode": "143002",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "891": {
+    "zipcode": "143003",
+    "city_id": "1499",
+    "state_id": "456"
+  },
+  "892": {
+    "zipcode": "144103",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "893": {
+    "zipcode": "144418",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "894": {
+    "zipcode": "144201",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "895": {
+    "zipcode": "144006",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "896": {
+    "zipcode": "144104",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "897": {
+    "zipcode": "144010",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "898": {
+    "zipcode": "144001",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "899": {
+    "zipcode": "144005",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "900": {
+    "zipcode": "144030",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "901": {
+    "zipcode": "144013",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "902": {
+    "zipcode": "144416",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "903": {
+    "zipcode": "144502",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "904": {
+    "zipcode": "144301",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "905": {
+    "zipcode": "144002",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "906": {
+    "zipcode": "144029",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "907": {
+    "zipcode": "144106",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "908": {
+    "zipcode": "144008",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "909": {
+    "zipcode": "144004",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "910": {
+    "zipcode": "144025",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "911": {
+    "zipcode": "144026",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "912": {
+    "zipcode": "144003",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "913": {
+    "zipcode": "144102",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "914": {
+    "zipcode": "144007",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "915": {
+    "zipcode": "144101",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "916": {
+    "zipcode": "144011",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "917": {
+    "zipcode": "144024",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "918": {
+    "zipcode": "144012",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "919": {
+    "zipcode": "144009",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "920": {
+    "zipcode": "144419",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "921": {
+    "zipcode": "144302",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "922": {
+    "zipcode": "144020",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "923": {
+    "zipcode": "144303",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "924": {
+    "zipcode": "144022",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "925": {
+    "zipcode": "144023",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "926": {
+    "zipcode": "144511",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "927": {
+    "zipcode": "144417",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "928": {
+    "zipcode": "144028",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "929": {
+    "zipcode": "144014",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "930": {
+    "zipcode": "144021",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "931": {
+    "zipcode": "144027",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "932": {
+    "zipcode": "144703",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "933": {
+    "zipcode": "144702",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "934": {
+    "zipcode": "144040",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "935": {
+    "zipcode": "144403",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "936": {
+    "zipcode": "144402",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "937": {
+    "zipcode": "144039",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "938": {
+    "zipcode": "144032",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "939": {
+    "zipcode": "144701",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "940": {
+    "zipcode": "144623",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "941": {
+    "zipcode": "144043",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "942": {
+    "zipcode": "144801",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "943": {
+    "zipcode": "144629",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "944": {
+    "zipcode": "144041",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "945": {
+    "zipcode": "144034",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "946": {
+    "zipcode": "144033",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "947": {
+    "zipcode": "144036",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "948": {
+    "zipcode": "144311",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "949": {
+    "zipcode": "144630",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "950": {
+    "zipcode": "144035",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "951": {
+    "zipcode": "144044",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "952": {
+    "zipcode": "144805",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "953": {
+    "zipcode": "144405",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "954": {
+    "zipcode": "144042",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "955": {
+    "zipcode": "144037",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "956": {
+    "zipcode": "144031",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "957": {
+    "zipcode": "144633",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "958": {
+    "zipcode": "144603",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "959": {
+    "zipcode": "144407",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "960": {
+    "zipcode": "144806",
+    "city_id": "1501",
+    "state_id": "456"
+  },
+  "961": {
+    "zipcode": "141007",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "962": {
+    "zipcode": "141008",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "963": {
+    "zipcode": "141016",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "964": {
+    "zipcode": "141010",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "965": {
+    "zipcode": "141002",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "966": {
+    "zipcode": "141004",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "967": {
+    "zipcode": "141012",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "968": {
+    "zipcode": "141014",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "969": {
+    "zipcode": "141017",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "970": {
+    "zipcode": "141015",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "971": {
+    "zipcode": "141003",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "972": {
+    "zipcode": "141001",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "973": {
+    "zipcode": "141013",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "974": {
+    "zipcode": "141006",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "975": {
+    "zipcode": "141105",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "976": {
+    "zipcode": "142027",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "977": {
+    "zipcode": "141205",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "978": {
+    "zipcode": "141202",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "979": {
+    "zipcode": "142034",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "980": {
+    "zipcode": "141412",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "981": {
+    "zipcode": "142032",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "982": {
+    "zipcode": "141107",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "983": {
+    "zipcode": "141414",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "984": {
+    "zipcode": "141101",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "985": {
+    "zipcode": "141114",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "986": {
+    "zipcode": "141417",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "987": {
+    "zipcode": "141206",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "988": {
+    "zipcode": "141415",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "989": {
+    "zipcode": "142023",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "990": {
+    "zipcode": "141421",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "991": {
+    "zipcode": "142033",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "992": {
+    "zipcode": "141103",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "993": {
+    "zipcode": "141418",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "994": {
+    "zipcode": "142029",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "995": {
+    "zipcode": "141108",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "996": {
+    "zipcode": "141203",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "997": {
+    "zipcode": "141416",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "998": {
+    "zipcode": "142030",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "999": {
+    "zipcode": "141117",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1000": {
+    "zipcode": "142025",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1001": {
+    "zipcode": "142024",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1002": {
+    "zipcode": "141112",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1003": {
+    "zipcode": "141102",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1004": {
+    "zipcode": "141110",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1005": {
+    "zipcode": "141121",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1006": {
+    "zipcode": "142036",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1007": {
+    "zipcode": "141116",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1008": {
+    "zipcode": "141204",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1009": {
+    "zipcode": "141122",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1010": {
+    "zipcode": "141123",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1011": {
+    "zipcode": "142021",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1012": {
+    "zipcode": "141118",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1013": {
+    "zipcode": "141113",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1014": {
+    "zipcode": "142022",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1015": {
+    "zipcode": "142031",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1016": {
+    "zipcode": "141125",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1017": {
+    "zipcode": "141413",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1018": {
+    "zipcode": "141120",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1019": {
+    "zipcode": "141422",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1020": {
+    "zipcode": "142035",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1021": {
+    "zipcode": "141104",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1022": {
+    "zipcode": "141127",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1023": {
+    "zipcode": "141106",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1024": {
+    "zipcode": "141201",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1025": {
+    "zipcode": "140802",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1026": {
+    "zipcode": "141801",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1027": {
+    "zipcode": "148107",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1028": {
+    "zipcode": "144409",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1029": {
+    "zipcode": "144410",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1030": {
+    "zipcode": "",
+    "city_id": "1502",
+    "state_id": "456"
+  },
+  "1031": {
+    "zipcode": "140201",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1032": {
+    "zipcode": "140506",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1033": {
+    "zipcode": "147201",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1034": {
+    "zipcode": "147101",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1035": {
+    "zipcode": "140602",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1036": {
+    "zipcode": "147202",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1037": {
+    "zipcode": "140412",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1038": {
+    "zipcode": "140406",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1039": {
+    "zipcode": "147102",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1040": {
+    "zipcode": "147004",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1041": {
+    "zipcode": "140402",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1042": {
+    "zipcode": "147105",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1043": {
+    "zipcode": "147006",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1044": {
+    "zipcode": "140417",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1045": {
+    "zipcode": "140701",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1046": {
+    "zipcode": "140601",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1047": {
+    "zipcode": "147001",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1048": {
+    "zipcode": "147111",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1049": {
+    "zipcode": "147021",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1050": {
+    "zipcode": "147203",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1051": {
+    "zipcode": "147005",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1052": {
+    "zipcode": "147104",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1053": {
+    "zipcode": "147003",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1054": {
+    "zipcode": "140702",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1055": {
+    "zipcode": "147007",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1056": {
+    "zipcode": "147103",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1057": {
+    "zipcode": "147002",
+    "city_id": "1503",
+    "state_id": "456"
+  },
+  "1058": {
+    "zipcode": "495001",
+    "city_id": "1504",
+    "state_id": "447"
+  },
+  "1059": {
+    "zipcode": "492001",
+    "city_id": "1506",
+    "state_id": "447"
+  },
+  "1060": {
+    "zipcode": "492013",
+    "city_id": "1506",
+    "state_id": "447"
+  },
+  "1061": {
+    "zipcode": "827001",
+    "city_id": "1507",
+    "state_id": "452"
+  },
+  "1062": {
+    "zipcode": "826001",
+    "city_id": "1508",
+    "state_id": "452"
+  },
+  "1063": {
+    "zipcode": "826005",
+    "city_id": "1508",
+    "state_id": "452"
+  },
+  "1064": {
+    "zipcode": "831001",
+    "city_id": "1509",
+    "state_id": "452"
+  },
+  "1065": {
+    "zipcode": "834001",
+    "city_id": "1510",
+    "state_id": "452"
+  },
+  "1066": {
+    "zipcode": "834005",
+    "city_id": "1510",
+    "state_id": "452"
+  },
+  "1067": {
+    "zipcode": "171304",
+    "city_id": "1511",
+    "state_id": "454"
+  },
+  "1068": {
+    "zipcode": "173212",
+    "city_id": "1512",
+    "state_id": "454"
+  },
+  "1069": {
+    "zipcode": "695011",
+    "city_id": "1516",
+    "state_id": "457"
+  },
+  "1070": {
+    "zipcode": "282003",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1071": {
+    "zipcode": "283201",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1072": {
+    "zipcode": "283102",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1073": {
+    "zipcode": "283110",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1074": {
+    "zipcode": "282007",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1075": {
+    "zipcode": "283202",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1076": {
+    "zipcode": "283115",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1077": {
+    "zipcode": "282009",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1078": {
+    "zipcode": "283112",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1079": {
+    "zipcode": "283125",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1080": {
+    "zipcode": "283114",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1081": {
+    "zipcode": "282002",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1082": {
+    "zipcode": "282005",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1083": {
+    "zipcode": "283111",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1084": {
+    "zipcode": "283104",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1085": {
+    "zipcode": "283122",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1086": {
+    "zipcode": "283126",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1087": {
+    "zipcode": "282006",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1088": {
+    "zipcode": "282010",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1089": {
+    "zipcode": "283121",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1090": {
+    "zipcode": "283123",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1091": {
+    "zipcode": "283105",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1092": {
+    "zipcode": "282001",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1093": {
+    "zipcode": "283119",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1094": {
+    "zipcode": "282004",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1095": {
+    "zipcode": "283113",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1096": {
+    "zipcode": "283124",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1097": {
+    "zipcode": "282008",
+    "city_id": "1517",
+    "state_id": "442"
+  },
+  "1098": {
+    "zipcode": "202001",
+    "city_id": "1518",
+    "state_id": "442"
+  },
+  "1099": {
+    "zipcode": "211007",
+    "city_id": "1519",
+    "state_id": "442"
+  },
+  "1100": {
+    "zipcode": "243001",
+    "city_id": "1520",
+    "state_id": "442"
+  },
+  "1101": {
+    "zipcode": "245304",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1102": {
+    "zipcode": "245207",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1103": {
+    "zipcode": "245205",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1104": {
+    "zipcode": "245201",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1105": {
+    "zipcode": "201002",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1106": {
+    "zipcode": "201014",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1107": {
+    "zipcode": "245208",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1108": {
+    "zipcode": "201003",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1109": {
+    "zipcode": "201006",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1110": {
+    "zipcode": "201015",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1111": {
+    "zipcode": "245301",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1112": {
+    "zipcode": "201001",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1113": {
+    "zipcode": "201007",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1114": {
+    "zipcode": "201005",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1115": {
+    "zipcode": "201019",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1116": {
+    "zipcode": "201012",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1117": {
+    "zipcode": "201016",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1118": {
+    "zipcode": "201017",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1119": {
+    "zipcode": "201011",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1120": {
+    "zipcode": "201103",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1121": {
+    "zipcode": "201013",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1122": {
+    "zipcode": "201004",
+    "city_id": "1521",
+    "state_id": "442"
+  },
+  "1123": {
+    "zipcode": "208003",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1124": {
+    "zipcode": "208009",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1125": {
+    "zipcode": "209401",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1126": {
+    "zipcode": "208001",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1127": {
+    "zipcode": "208024",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1128": {
+    "zipcode": "208008",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1129": {
+    "zipcode": "209214",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1130": {
+    "zipcode": "208014",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1131": {
+    "zipcode": "208007",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1132": {
+    "zipcode": "208004",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1133": {
+    "zipcode": "208012",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1134": {
+    "zipcode": "208019",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1135": {
+    "zipcode": "209402",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1136": {
+    "zipcode": "208013",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1137": {
+    "zipcode": "208021",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1138": {
+    "zipcode": "208022",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1139": {
+    "zipcode": "208011",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1140": {
+    "zipcode": "208002",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1141": {
+    "zipcode": "208027",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1142": {
+    "zipcode": "209305",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1143": {
+    "zipcode": "208006",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1144": {
+    "zipcode": "208010",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1145": {
+    "zipcode": "209217",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1146": {
+    "zipcode": "208015",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1147": {
+    "zipcode": "208020",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1148": {
+    "zipcode": "209304",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1149": {
+    "zipcode": "208023",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1150": {
+    "zipcode": "208025",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1151": {
+    "zipcode": "208005",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1152": {
+    "zipcode": "208026",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1153": {
+    "zipcode": "208016",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1154": {
+    "zipcode": "209203",
+    "city_id": "1522",
+    "state_id": "442"
+  },
+  "1155": {
+    "zipcode": "226005",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1156": {
+    "zipcode": "226017",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1157": {
+    "zipcode": "226301",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1158": {
+    "zipcode": "226104",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1159": {
+    "zipcode": "226401",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1160": {
+    "zipcode": "226001",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1161": {
+    "zipcode": "226103",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1162": {
+    "zipcode": "226020",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1163": {
+    "zipcode": "226101",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1164": {
+    "zipcode": "226202",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1165": {
+    "zipcode": "226018",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1166": {
+    "zipcode": "226016",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1167": {
+    "zipcode": "226003",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1168": {
+    "zipcode": "226019",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1169": {
+    "zipcode": "226203",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1170": {
+    "zipcode": "226501",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1171": {
+    "zipcode": "226021",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1172": {
+    "zipcode": "226028",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1173": {
+    "zipcode": "226027",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1174": {
+    "zipcode": "226002",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1175": {
+    "zipcode": "226023",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1176": {
+    "zipcode": "226004",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1177": {
+    "zipcode": "226201",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1178": {
+    "zipcode": "226302",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1179": {
+    "zipcode": "226010",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1180": {
+    "zipcode": "226022",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1181": {
+    "zipcode": "226303",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1182": {
+    "zipcode": "226029",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1183": {
+    "zipcode": "226024",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1184": {
+    "zipcode": "226008",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1185": {
+    "zipcode": "226025",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1186": {
+    "zipcode": "226026",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1187": {
+    "zipcode": "226015",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1188": {
+    "zipcode": "226006",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1189": {
+    "zipcode": "226030",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1190": {
+    "zipcode": "226102",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1191": {
+    "zipcode": "226031",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1192": {
+    "zipcode": "226012",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1193": {
+    "zipcode": "226007",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1194": {
+    "zipcode": "226009",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1195": {
+    "zipcode": "226014",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1196": {
+    "zipcode": "226013",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1197": {
+    "zipcode": "226011",
+    "city_id": "1523",
+    "state_id": "442"
+  },
+  "1198": {
+    "zipcode": "281001",
+    "city_id": "1524",
+    "state_id": "442"
+  },
+  "1199": {
+    "zipcode": "250406",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1200": {
+    "zipcode": "250502",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1201": {
+    "zipcode": "250002",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1202": {
+    "zipcode": "250404",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1203": {
+    "zipcode": "250501",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1204": {
+    "zipcode": "250342",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1205": {
+    "zipcode": "250001",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1206": {
+    "zipcode": "250344",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1207": {
+    "zipcode": "250104",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1208": {
+    "zipcode": "250222",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1209": {
+    "zipcode": "250110",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1210": {
+    "zipcode": "250003",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1211": {
+    "zipcode": "250205",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1212": {
+    "zipcode": "245206",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1213": {
+    "zipcode": "250106",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1214": {
+    "zipcode": "250341",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1215": {
+    "zipcode": "250004",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1216": {
+    "zipcode": "250005",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1217": {
+    "zipcode": "250103",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1218": {
+    "zipcode": "250402",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1219": {
+    "zipcode": "250223",
+    "city_id": "1525",
+    "state_id": "442"
+  },
+  "1220": {
+    "zipcode": "247001",
+    "city_id": "1528",
+    "state_id": "442"
+  },
+  "1221": {
+    "zipcode": "221005",
+    "city_id": "1529",
+    "state_id": "442"
+  },
+  "1222": {
+    "zipcode": "171001",
+    "city_id": "1535",
+    "state_id": "454"
+  },
+  "1223": {
+    "zipcode": "700027",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1224": {
+    "zipcode": "700007",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1225": {
+    "zipcode": "700128",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1226": {
+    "zipcode": "700124",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1227": {
+    "zipcode": "700132",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1228": {
+    "zipcode": "700135",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1229": {
+    "zipcode": "700131",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1230": {
+    "zipcode": "700129",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1231": {
+    "zipcode": "700126",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1232": {
+    "zipcode": "700136",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1233": {
+    "zipcode": "700155",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1234": {
+    "zipcode": "700133",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1235": {
+    "zipcode": "700127",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1236": {
+    "zipcode": "700020",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1237": {
+    "zipcode": "700044",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1238": {
+    "zipcode": "700019",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1239": {
+    "zipcode": "700008",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1240": {
+    "zipcode": "700042",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1241": {
+    "zipcode": "700029",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1242": {
+    "zipcode": "700023",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1243": {
+    "zipcode": "700034",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1244": {
+    "zipcode": "700041",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1245": {
+    "zipcode": "700033",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1246": {
+    "zipcode": "700047",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1247": {
+    "zipcode": "700022",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1248": {
+    "zipcode": "700082",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1249": {
+    "zipcode": "700063",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1250": {
+    "zipcode": "700045",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1251": {
+    "zipcode": "700040",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1252": {
+    "zipcode": "700043",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1253": {
+    "zipcode": "700107",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1254": {
+    "zipcode": "700099",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1255": {
+    "zipcode": "700026",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1256": {
+    "zipcode": "700053",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1257": {
+    "zipcode": "700094",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1258": {
+    "zipcode": "700061",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1259": {
+    "zipcode": "700024",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1260": {
+    "zipcode": "700025",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1261": {
+    "zipcode": "700088",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1262": {
+    "zipcode": "700032",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1263": {
+    "zipcode": "700038",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1264": {
+    "zipcode": "700078",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1265": {
+    "zipcode": "700060",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1266": {
+    "zipcode": "700075",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1267": {
+    "zipcode": "700095",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1268": {
+    "zipcode": "700068",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1269": {
+    "zipcode": "700086",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1270": {
+    "zipcode": "700031",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1271": {
+    "zipcode": "700092",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1272": {
+    "zipcode": "700062",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1273": {
+    "zipcode": "700087",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1274": {
+    "zipcode": "700072",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1275": {
+    "zipcode": "700073",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1276": {
+    "zipcode": "700069",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1277": {
+    "zipcode": "700017",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1278": {
+    "zipcode": "700016",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1279": {
+    "zipcode": "700014",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1280": {
+    "zipcode": "700021",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1281": {
+    "zipcode": "700071",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1282": {
+    "zipcode": "700013",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1283": {
+    "zipcode": "700106",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1284": {
+    "zipcode": "700085",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1285": {
+    "zipcode": "700091",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1286": {
+    "zipcode": "700055",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1287": {
+    "zipcode": "700048",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1288": {
+    "zipcode": "700015",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1289": {
+    "zipcode": "700064",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1290": {
+    "zipcode": "700157",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1291": {
+    "zipcode": "700089",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1292": {
+    "zipcode": "700102",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1293": {
+    "zipcode": "700059",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1294": {
+    "zipcode": "700039",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1295": {
+    "zipcode": "700159",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1296": {
+    "zipcode": "700054",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1297": {
+    "zipcode": "700046",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1298": {
+    "zipcode": "700098",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1299": {
+    "zipcode": "700156",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1300": {
+    "zipcode": "700097",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1301": {
+    "zipcode": "700105",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1302": {
+    "zipcode": "700101",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1303": {
+    "zipcode": "700100",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1304": {
+    "zipcode": "700030",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1305": {
+    "zipcode": "700006",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1306": {
+    "zipcode": "700036",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1307": {
+    "zipcode": "700028",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1308": {
+    "zipcode": "700052",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1309": {
+    "zipcode": "700004",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1310": {
+    "zipcode": "700037",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1311": {
+    "zipcode": "700077",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1312": {
+    "zipcode": "700005",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1313": {
+    "zipcode": "700090",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1314": {
+    "zipcode": "700002",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1315": {
+    "zipcode": "700108",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1316": {
+    "zipcode": "700050",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1317": {
+    "zipcode": "700065",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1318": {
+    "zipcode": "700067",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1319": {
+    "zipcode": "700074",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1320": {
+    "zipcode": "700080",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1321": {
+    "zipcode": "741154",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1322": {
+    "zipcode": "743122",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1323": {
+    "zipcode": "743126",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1324": {
+    "zipcode": "743127",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1325": {
+    "zipcode": "700110",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1326": {
+    "zipcode": "700056",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1327": {
+    "zipcode": "700119",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1328": {
+    "zipcode": "743165",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1329": {
+    "zipcode": "700049",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1330": {
+    "zipcode": "700114",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1331": {
+    "zipcode": "700120",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1332": {
+    "zipcode": "700158",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1333": {
+    "zipcode": "700113",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1334": {
+    "zipcode": "743133",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1335": {
+    "zipcode": "700118",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1336": {
+    "zipcode": "700079",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1337": {
+    "zipcode": "700134",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1338": {
+    "zipcode": "700121",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1339": {
+    "zipcode": "700081",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1340": {
+    "zipcode": "700051",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1341": {
+    "zipcode": "700111",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1342": {
+    "zipcode": "743136",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1343": {
+    "zipcode": "700146",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1344": {
+    "zipcode": "700084",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1345": {
+    "zipcode": "700070",
+    "city_id": "1549",
+    "state_id": "450"
+  },
+  "1346": {
+    "zipcode": "160015",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1347": {
+    "zipcode": "160023",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1348": {
+    "zipcode": "140119",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1349": {
+    "zipcode": "160004",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1350": {
+    "zipcode": "160036",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1351": {
+    "zipcode": "140125",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1352": {
+    "zipcode": "140133",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1353": {
+    "zipcode": "160022",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1354": {
+    "zipcode": "160047",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1355": {
+    "zipcode": "160003",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1356": {
+    "zipcode": "160017",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1357": {
+    "zipcode": "160025",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1358": {
+    "zipcode": "160101",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1359": {
+    "zipcode": "160102",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1360": {
+    "zipcode": "160012",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1361": {
+    "zipcode": "160030",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1362": {
+    "zipcode": "160001",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1363": {
+    "zipcode": "160019",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1364": {
+    "zipcode": "160009",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1365": {
+    "zipcode": "160002",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1366": {
+    "zipcode": "160011",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1367": {
+    "zipcode": "160020",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1368": {
+    "zipcode": "160014",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1369": {
+    "zipcode": "160018",
+    "city_id": "1553",
+    "state_id": "456"
+  },
+  "1370": {
+    "zipcode": "403001",
+    "city_id": "1555",
+    "state_id": "465"
+  },
+  "1371": {
+    "zipcode": "180002",
+    "city_id": "1558",
+    "state_id": "443"
+  },
+  "1372": {
+    "zipcode": "400037",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1373": {
+    "zipcode": "400012",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1374": {
+    "zipcode": "400010",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1375": {
+    "zipcode": "400009",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1376": {
+    "zipcode": "400033",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1377": {
+    "zipcode": "400014",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1378": {
+    "zipcode": "400031",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1379": {
+    "zipcode": "400015",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1380": {
+    "zipcode": "400027",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1381": {
+    "zipcode": "400003",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1382": {
+    "zipcode": "400053",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1383": {
+    "zipcode": "400058",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1384": {
+    "zipcode": "400069",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1385": {
+    "zipcode": "400099",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1386": {
+    "zipcode": "400051",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1387": {
+    "zipcode": "400059",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1388": {
+    "zipcode": "400061",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1389": {
+    "zipcode": "400057",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1390": {
+    "zipcode": "400052",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1391": {
+    "zipcode": "400055",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1392": {
+    "zipcode": "400050",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1393": {
+    "zipcode": "400093",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1394": {
+    "zipcode": "400029",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1395": {
+    "zipcode": "400098",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1396": {
+    "zipcode": "400056",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1397": {
+    "zipcode": "400054",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1398": {
+    "zipcode": "400096",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1399": {
+    "zipcode": "400049",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1400": {
+    "zipcode": "400075",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1401": {
+    "zipcode": "400078",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1402": {
+    "zipcode": "400022",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1403": {
+    "zipcode": "400086",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1404": {
+    "zipcode": "400080",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1405": {
+    "zipcode": "400082",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1406": {
+    "zipcode": "400089",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1407": {
+    "zipcode": "400074",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1408": {
+    "zipcode": "400087",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1409": {
+    "zipcode": "400077",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1410": {
+    "zipcode": "400072",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1411": {
+    "zipcode": "400079",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1412": {
+    "zipcode": "400094",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1413": {
+    "zipcode": "400085",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1414": {
+    "zipcode": "400071",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1415": {
+    "zipcode": "400070",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1416": {
+    "zipcode": "400024",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1417": {
+    "zipcode": "400088",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1418": {
+    "zipcode": "400083",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1419": {
+    "zipcode": "400084",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1420": {
+    "zipcode": "400081",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1421": {
+    "zipcode": "400076",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1422": {
+    "zipcode": "400042",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1423": {
+    "zipcode": "400043",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1424": {
+    "zipcode": "400019",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1425": {
+    "zipcode": "400063",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1426": {
+    "zipcode": "400060",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1427": {
+    "zipcode": "400067",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1428": {
+    "zipcode": "400102",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1429": {
+    "zipcode": "400097",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1430": {
+    "zipcode": "400065",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1431": {
+    "zipcode": "400066",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1432": {
+    "zipcode": "400068",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1433": {
+    "zipcode": "400104",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1434": {
+    "zipcode": "400064",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1435": {
+    "zipcode": "400091",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1436": {
+    "zipcode": "400101",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1437": {
+    "zipcode": "400092",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1438": {
+    "zipcode": "400103",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1439": {
+    "zipcode": "400004",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1440": {
+    "zipcode": "400001",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1441": {
+    "zipcode": "400032",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1442": {
+    "zipcode": "400005",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1443": {
+    "zipcode": "400002",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1444": {
+    "zipcode": "400020",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1445": {
+    "zipcode": "400021",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1446": {
+    "zipcode": "400011",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1447": {
+    "zipcode": "400017",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1448": {
+    "zipcode": "400026",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1449": {
+    "zipcode": "400028",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1450": {
+    "zipcode": "400030",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1451": {
+    "zipcode": "400016",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1452": {
+    "zipcode": "400008",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1453": {
+    "zipcode": "400025",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1454": {
+    "zipcode": "400007",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1455": {
+    "zipcode": "400034",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1456": {
+    "zipcode": "400018",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1457": {
+    "zipcode": "400035",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1458": {
+    "zipcode": "400013",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1459": {
+    "zipcode": "400006",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1460": {
+    "zipcode": "400708",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1461": {
+    "zipcode": "400703",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1462": {
+    "zipcode": "410210",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1463": {
+    "zipcode": "400614",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1464": {
+    "zipcode": "400706",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1465": {
+    "zipcode": "400705",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1466": {
+    "zipcode": "400701",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1467": {
+    "zipcode": "400709",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1468": {
+    "zipcode": "400603",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1469": {
+    "zipcode": "400601",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1470": {
+    "zipcode": "421203",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1471": {
+    "zipcode": "400602",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1472": {
+    "zipcode": "421501",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1473": {
+    "zipcode": "421201",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1474": {
+    "zipcode": "400604",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1475": {
+    "zipcode": "400608",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1476": {
+    "zipcode": "400607",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1477": {
+    "zipcode": "400606",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1478": {
+    "zipcode": "400615",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1479": {
+    "zipcode": "400610",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1480": {
+    "zipcode": "400605",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1481": {
+    "zipcode": "401107",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1482": {
+    "zipcode": "401203",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1483": {
+    "zipcode": "401202",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1484": {
+    "zipcode": "401105",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1485": {
+    "zipcode": "400047",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1486": {
+    "zipcode": "410209",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1487": {
+    "zipcode": "400036",
+    "city_id": "1563",
+    "state_id": "440"
+  },
+  "1488": {
+    "zipcode": "140109",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1489": {
+    "zipcode": "140307",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1490": {
+    "zipcode": "140103",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1491": {
+    "zipcode": "140413",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1492": {
+    "zipcode": "140901",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1493": {
+    "zipcode": "140110",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1494": {
+    "zipcode": "160103",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1495": {
+    "zipcode": "140604",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1496": {
+    "zipcode": "160071",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1497": {
+    "zipcode": "160104",
+    "city_id": "1580",
+    "state_id": "456"
+  },
+  "1498": {
+    "zipcode": "224001",
+    "city_id": "1582",
+    "state_id": "442"
+  },
+  "1499": {
+    "zipcode": "271002",
+    "city_id": "1583",
+    "state_id": "442"
+  },
+  "1500": {
+    "zipcode": "273001",
+    "city_id": "1584",
+    "state_id": "442"
+  },
+  "1501": {
+    "zipcode": "263139",
+    "city_id": "1585",
+    "state_id": "455"
+  },
+  "1502": {
+    "zipcode": "261001",
+    "city_id": "1590",
+    "state_id": "442"
+  },
+  "1503": {
+    "zipcode": "110095",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1504": {
+    "zipcode": "110092",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1505": {
+    "zipcode": "110053",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1506": {
+    "zipcode": "110096",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1507": {
+    "zipcode": "110091",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1508": {
+    "zipcode": "110032",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1509": {
+    "zipcode": "110094",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1510": {
+    "zipcode": "110031",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1511": {
+    "zipcode": "110090",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1512": {
+    "zipcode": "110093",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1513": {
+    "zipcode": "110051",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1514": {
+    "zipcode": "110006",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1515": {
+    "zipcode": "110036",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1516": {
+    "zipcode": "110034",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1517": {
+    "zipcode": "110085",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1518": {
+    "zipcode": "110088",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1519": {
+    "zipcode": "110039",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1520": {
+    "zipcode": "110082",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1521": {
+    "zipcode": "110009",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1522": {
+    "zipcode": "110081",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1523": {
+    "zipcode": "110040",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1524": {
+    "zipcode": "110086",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1525": {
+    "zipcode": "110007",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1526": {
+    "zipcode": "110054",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1527": {
+    "zipcode": "110084",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1528": {
+    "zipcode": "110052",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1529": {
+    "zipcode": "110042",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1530": {
+    "zipcode": "110033",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1531": {
+    "zipcode": "110035",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1532": {
+    "zipcode": "110083",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1533": {
+    "zipcode": "110089",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1534": {
+    "zipcode": "110056",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1535": {
+    "zipcode": "110003",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1536": {
+    "zipcode": "110001",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1537": {
+    "zipcode": "110011",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1538": {
+    "zipcode": "110004",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1539": {
+    "zipcode": "110002",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1540": {
+    "zipcode": "110005",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1541": {
+    "zipcode": "110008",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1542": {
+    "zipcode": "110055",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1543": {
+    "zipcode": "110069",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1544": {
+    "zipcode": "110060",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1545": {
+    "zipcode": "110019",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1546": {
+    "zipcode": "110062",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1547": {
+    "zipcode": "110024",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1548": {
+    "zipcode": "110065",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1549": {
+    "zipcode": "110048",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1550": {
+    "zipcode": "110013",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1551": {
+    "zipcode": "110017",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1552": {
+    "zipcode": "110044",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1553": {
+    "zipcode": "110025",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1554": {
+    "zipcode": "110020",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1555": {
+    "zipcode": "110049",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1556": {
+    "zipcode": "110076",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1557": {
+    "zipcode": "110014",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1558": {
+    "zipcode": "110080",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1559": {
+    "zipcode": "110010",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1560": {
+    "zipcode": "110038",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1561": {
+    "zipcode": "110047",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1562": {
+    "zipcode": "110074",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1563": {
+    "zipcode": "110021",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1564": {
+    "zipcode": "110068",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1565": {
+    "zipcode": "110067",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1566": {
+    "zipcode": "110022",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1567": {
+    "zipcode": "110066",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1568": {
+    "zipcode": "110030",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1569": {
+    "zipcode": "110023",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1570": {
+    "zipcode": "110016",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1571": {
+    "zipcode": "110070",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1572": {
+    "zipcode": "110061",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1573": {
+    "zipcode": "110097",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1574": {
+    "zipcode": "110037",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1575": {
+    "zipcode": "110057",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1576": {
+    "zipcode": "110029",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1577": {
+    "zipcode": "110026",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1578": {
+    "zipcode": "110077",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1579": {
+    "zipcode": "110075",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1580": {
+    "zipcode": "110073",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1581": {
+    "zipcode": "110064",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1582": {
+    "zipcode": "110071",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1583": {
+    "zipcode": "110063",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1584": {
+    "zipcode": "110043",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1585": {
+    "zipcode": "110041",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1586": {
+    "zipcode": "110027",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1587": {
+    "zipcode": "110015",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1588": {
+    "zipcode": "110087",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1589": {
+    "zipcode": "110058",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1590": {
+    "zipcode": "110018",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1591": {
+    "zipcode": "110059",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1592": {
+    "zipcode": "110028",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1593": {
+    "zipcode": "110078",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1594": {
+    "zipcode": "110045",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1595": {
+    "zipcode": "110046",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1596": {
+    "zipcode": "110072",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1597": {
+    "zipcode": "110012",
+    "city_id": "1595",
+    "state_id": "2"
+  },
+  "1598": {
+    "zipcode": "203207",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1599": {
+    "zipcode": "201009",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1600": {
+    "zipcode": "201306",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1601": {
+    "zipcode": "201310",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1602": {
+    "zipcode": "201311",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1603": {
+    "zipcode": "201308",
+    "city_id": "1597",
+    "state_id": "442"
+  },
+  "1604": {
+    "zipcode": "133301",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1605": {
+    "zipcode": "134202",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1606": {
+    "zipcode": "134118",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1607": {
+    "zipcode": "134205",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1608": {
+    "zipcode": "134107",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1609": {
+    "zipcode": "134204",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1610": {
+    "zipcode": "134114",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1611": {
+    "zipcode": "134112",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1612": {
+    "zipcode": "134113",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1613": {
+    "zipcode": "134116",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1614": {
+    "zipcode": "134104",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1615": {
+    "zipcode": "134101",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1616": {
+    "zipcode": "134117",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1617": {
+    "zipcode": "134108",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1618": {
+    "zipcode": "134103",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1619": {
+    "zipcode": "134115",
+    "city_id": "1603",
+    "state_id": "26"
+  },
+  "1620": {
+    "zipcode": "132039",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1621": {
+    "zipcode": "132040",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1622": {
+    "zipcode": "132116",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1623": {
+    "zipcode": "132114",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1624": {
+    "zipcode": "132001",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1625": {
+    "zipcode": "132037",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1626": {
+    "zipcode": "132036",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1627": {
+    "zipcode": "132046",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1628": {
+    "zipcode": "132024",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1629": {
+    "zipcode": "132117",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1630": {
+    "zipcode": "132054",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1631": {
+    "zipcode": "132157",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1632": {
+    "zipcode": "132023",
+    "city_id": "1604",
+    "state_id": "26"
+  },
+  "1633": {
+    "zipcode": "136119",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1634": {
+    "zipcode": "136128",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1635": {
+    "zipcode": "136131",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1636": {
+    "zipcode": "136156",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1637": {
+    "zipcode": "136136",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1638": {
+    "zipcode": "136118",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1639": {
+    "zipcode": "136130",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1640": {
+    "zipcode": "136129",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1641": {
+    "zipcode": "136030",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1642": {
+    "zipcode": "136038",
+    "city_id": "1608",
+    "state_id": "26"
+  },
+  "1643": {
+    "zipcode": "247662",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1644": {
+    "zipcode": "247671",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1645": {
+    "zipcode": "249404",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1646": {
+    "zipcode": "247670",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1647": {
+    "zipcode": "249407",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1648": {
+    "zipcode": "247665",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1649": {
+    "zipcode": "249403",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1650": {
+    "zipcode": "247661",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1651": {
+    "zipcode": "247663",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1652": {
+    "zipcode": "247656",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1653": {
+    "zipcode": "249408",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1654": {
+    "zipcode": "249401",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1655": {
+    "zipcode": "249410",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1656": {
+    "zipcode": "249402",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1657": {
+    "zipcode": "249411",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1658": {
+    "zipcode": "247668",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1659": {
+    "zipcode": "247666",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1660": {
+    "zipcode": "249405",
+    "city_id": "1609",
+    "state_id": "455"
+  },
+  "1661": {
+    "zipcode": "560064",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1662": {
+    "zipcode": "560001",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1663": {
+    "zipcode": "560065",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1664": {
+    "zipcode": "560024",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1665": {
+    "zipcode": "560008",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1666": {
+    "zipcode": "560006",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1667": {
+    "zipcode": "560067",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1668": {
+    "zipcode": "560066",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1669": {
+    "zipcode": "560087",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1670": {
+    "zipcode": "560047",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1671": {
+    "zipcode": "560103",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1672": {
+    "zipcode": "560077",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1673": {
+    "zipcode": "560093",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1674": {
+    "zipcode": "560051",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1675": {
+    "zipcode": "560032",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1676": {
+    "zipcode": "560036",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1677": {
+    "zipcode": "560049",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1678": {
+    "zipcode": "560094",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1679": {
+    "zipcode": "560092",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1680": {
+    "zipcode": "560084",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1681": {
+    "zipcode": "560017",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1682": {
+    "zipcode": "560063",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1683": {
+    "zipcode": "560046",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1684": {
+    "zipcode": "560025",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1685": {
+    "zipcode": "560037",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1686": {
+    "zipcode": "560038",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1687": {
+    "zipcode": "560075",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1688": {
+    "zipcode": "560048",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1689": {
+    "zipcode": "560080",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1690": {
+    "zipcode": "560007",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1691": {
+    "zipcode": "560300",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1692": {
+    "zipcode": "560016",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1693": {
+    "zipcode": "560045",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1694": {
+    "zipcode": "560042",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1695": {
+    "zipcode": "560043",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1696": {
+    "zipcode": "560033",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1697": {
+    "zipcode": "560071",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1698": {
+    "zipcode": "560005",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1699": {
+    "zipcode": "560070",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1700": {
+    "zipcode": "560083",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1701": {
+    "zipcode": "560004",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1702": {
+    "zipcode": "560085",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1703": {
+    "zipcode": "560018",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1704": {
+    "zipcode": "560060",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1705": {
+    "zipcode": "560105",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1706": {
+    "zipcode": "560076",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1707": {
+    "zipcode": "560041",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1708": {
+    "zipcode": "560002",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1709": {
+    "zipcode": "560061",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1710": {
+    "zipcode": "560109",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1711": {
+    "zipcode": "560027",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1712": {
+    "zipcode": "560082",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1713": {
+    "zipcode": "560026",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1714": {
+    "zipcode": "560029",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1715": {
+    "zipcode": "560102",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1716": {
+    "zipcode": "560062",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1717": {
+    "zipcode": "560078",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1718": {
+    "zipcode": "560098",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1719": {
+    "zipcode": "560100",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1720": {
+    "zipcode": "560019",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1721": {
+    "zipcode": "560099",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1722": {
+    "zipcode": "560068",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1723": {
+    "zipcode": "560034",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1724": {
+    "zipcode": "560074",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1725": {
+    "zipcode": "560050",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1726": {
+    "zipcode": "560056",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1727": {
+    "zipcode": "560053",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1728": {
+    "zipcode": "560081",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1729": {
+    "zipcode": "560011",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1730": {
+    "zipcode": "560039",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1731": {
+    "zipcode": "560059",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1732": {
+    "zipcode": "560030",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1733": {
+    "zipcode": "560108",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1734": {
+    "zipcode": "560095",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1735": {
+    "zipcode": "560110",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1736": {
+    "zipcode": "560035",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1737": {
+    "zipcode": "560104",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1738": {
+    "zipcode": "560091",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1739": {
+    "zipcode": "560010",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1740": {
+    "zipcode": "560055",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1741": {
+    "zipcode": "560072",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1742": {
+    "zipcode": "560058",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1743": {
+    "zipcode": "560097",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1744": {
+    "zipcode": "560009",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1745": {
+    "zipcode": "560090",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1746": {
+    "zipcode": "560073",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1747": {
+    "zipcode": "560096",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1748": {
+    "zipcode": "560057",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1749": {
+    "zipcode": "560020",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1750": {
+    "zipcode": "560003",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1751": {
+    "zipcode": "560079",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1752": {
+    "zipcode": "560023",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1753": {
+    "zipcode": "560086",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1754": {
+    "zipcode": "560040",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1755": {
+    "zipcode": "560022",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1756": {
+    "zipcode": "560015",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1757": {
+    "zipcode": "560021",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1758": {
+    "zipcode": "560054",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1759": {
+    "zipcode": "560012",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1760": {
+    "zipcode": "560014",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1761": {
+    "zipcode": "560013",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1762": {
+    "zipcode": "562107",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1763": {
+    "zipcode": "562120",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1764": {
+    "zipcode": "562106",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1765": {
+    "zipcode": "562162",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1766": {
+    "zipcode": "562130",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1767": {
+    "zipcode": "562129",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1768": {
+    "zipcode": "562125",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1769": {
+    "zipcode": "562114",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1770": {
+    "zipcode": "562149",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1771": {
+    "zipcode": "562157",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1772": {
+    "zipcode": "560069",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1773": {
+    "zipcode": "560112",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1774": {
+    "zipcode": "500102",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1775": {
+    "zipcode": "560111",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1776": {
+    "zipcode": "560113",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1777": {
+    "zipcode": "560114",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1778": {
+    "zipcode": "560115",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1779": {
+    "zipcode": "560052",
+    "city_id": "1610",
+    "state_id": "445"
+  },
+  "1780": {
+    "zipcode": "124105",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1781": {
+    "zipcode": "124508",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1782": {
+    "zipcode": "124504",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1783": {
+    "zipcode": "124507",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1784": {
+    "zipcode": "124505",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1785": {
+    "zipcode": "124506",
+    "city_id": "1611",
+    "state_id": "26"
+  },
+  "1786": {
+    "zipcode": "600002",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1787": {
+    "zipcode": "600005",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1788": {
+    "zipcode": "600017",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1789": {
+    "zipcode": "600018",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1790": {
+    "zipcode": "600004",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1791": {
+    "zipcode": "600034",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1792": {
+    "zipcode": "600006",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1793": {
+    "zipcode": "600094",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1794": {
+    "zipcode": "600014",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1795": {
+    "zipcode": "600086",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1796": {
+    "zipcode": "600102",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1797": {
+    "zipcode": "600001",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1798": {
+    "zipcode": "600081",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1799": {
+    "zipcode": "600106",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1800": {
+    "zipcode": "600107",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1801": {
+    "zipcode": "600082",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1802": {
+    "zipcode": "600012",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1803": {
+    "zipcode": "600003",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1804": {
+    "zipcode": "600039",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1805": {
+    "zipcode": "600101",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1806": {
+    "zipcode": "600023",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1807": {
+    "zipcode": "600009",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1808": {
+    "zipcode": "600029",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1809": {
+    "zipcode": "600031",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1810": {
+    "zipcode": "600008",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1811": {
+    "zipcode": "600084",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1812": {
+    "zipcode": "600010",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1813": {
+    "zipcode": "600013",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1814": {
+    "zipcode": "600011",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1815": {
+    "zipcode": "600030",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1816": {
+    "zipcode": "600021",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1817": {
+    "zipcode": "600040",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1818": {
+    "zipcode": "600104",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1819": {
+    "zipcode": "600038",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1820": {
+    "zipcode": "600007",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1821": {
+    "zipcode": "600016",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1822": {
+    "zipcode": "600024",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1823": {
+    "zipcode": "600035",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1824": {
+    "zipcode": "600028",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1825": {
+    "zipcode": "600020",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1826": {
+    "zipcode": "600119",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1827": {
+    "zipcode": "600088",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1828": {
+    "zipcode": "600036",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1829": {
+    "zipcode": "600090",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1830": {
+    "zipcode": "600015",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1831": {
+    "zipcode": "600085",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1832": {
+    "zipcode": "600061",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1833": {
+    "zipcode": "600113",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1834": {
+    "zipcode": "600032",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1835": {
+    "zipcode": "600083",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1836": {
+    "zipcode": "600092",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1837": {
+    "zipcode": "600089",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1838": {
+    "zipcode": "600041",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1839": {
+    "zipcode": "600042",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1840": {
+    "zipcode": "600091",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1841": {
+    "zipcode": "600022",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1842": {
+    "zipcode": "600078",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1843": {
+    "zipcode": "600096",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1844": {
+    "zipcode": "600033",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1845": {
+    "zipcode": "600026",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1846": {
+    "zipcode": "600025",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1847": {
+    "zipcode": "600093",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1848": {
+    "zipcode": "600118",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1849": {
+    "zipcode": "600044",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1850": {
+    "zipcode": "600051",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1851": {
+    "zipcode": "600037",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1852": {
+    "zipcode": "600075",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1853": {
+    "zipcode": "600053",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1854": {
+    "zipcode": "600126",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1855": {
+    "zipcode": "600045",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1856": {
+    "zipcode": "600049",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1857": {
+    "zipcode": "600019",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1858": {
+    "zipcode": "600116",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1859": {
+    "zipcode": "600129",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1860": {
+    "zipcode": "600074",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1861": {
+    "zipcode": "600060",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1862": {
+    "zipcode": "600073",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1863": {
+    "zipcode": "600076",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1864": {
+    "zipcode": "600050",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1865": {
+    "zipcode": "600130",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1866": {
+    "zipcode": "600117",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1867": {
+    "zipcode": "600043",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1868": {
+    "zipcode": "600125",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1869": {
+    "zipcode": "600058",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1870": {
+    "zipcode": "600100",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1871": {
+    "zipcode": "600099",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1872": {
+    "zipcode": "600027",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1873": {
+    "zipcode": "600112",
+    "city_id": "1613",
+    "state_id": "448"
+  },
+  "1874": {
+    "zipcode": "490001",
+    "city_id": "1622",
+    "state_id": "447"
+  },
+  "1875": {
+    "zipcode": "413001",
+    "city_id": "1623",
+    "state_id": "440"
+  },
+  "1876": {
+    "zipcode": "781001",
+    "city_id": "1624",
+    "state_id": "453"
+  },
+  "1877": {
+    "zipcode": "781032",
+    "city_id": "1624",
+    "state_id": "453"
+  },
+  "1878": {
+    "zipcode": "284001",
+    "city_id": "1628",
+    "state_id": "442"
+  },
+  "1879": {
+    "zipcode": "244001",
+    "city_id": "1630",
+    "state_id": "442"
+  },
+  "1880": {
+    "zipcode": "416001",
+    "city_id": "1631",
+    "state_id": "440"
+  },
+  "1881": {
+    "zipcode": "444601",
+    "city_id": "1632",
+    "state_id": "440"
+  },
+  "1882": {
+    "zipcode": "466001",
+    "city_id": "1634",
+    "state_id": "439"
+  },
+  "1883": {
+    "zipcode": "332001",
+    "city_id": "1652",
+    "state_id": "438"
+  },
+  "1884": {
+    "zipcode": "572103",
+    "city_id": "1653",
+    "state_id": "445"
+  },
+  "1885": {
+    "zipcode": "414001",
+    "city_id": "1654",
+    "state_id": "440"
+  },
+  "1886": {
+    "zipcode": "311001",
+    "city_id": "1655",
+    "state_id": "438"
+  },
+  "1887": {
+    "zipcode": "431401",
+    "city_id": "1657",
+    "state_id": "440"
+  },
+  "1888": {
+    "zipcode": "413512",
+    "city_id": "1658",
+    "state_id": "440"
+  },
+  "1889": {
+    "zipcode": "251001",
+    "city_id": "1660",
+    "state_id": "442"
+  },
+  "1890": {
+    "zipcode": "283135",
+    "city_id": "1666",
+    "state_id": "442"
+  },
+  "1891": {
+    "zipcode": "712134",
+    "city_id": "1668",
+    "state_id": "450"
+  },
+  "1892": {
+    "zipcode": "502267",
+    "city_id": "1674",
+    "state_id": "471"
+  },
+  "1893": {
+    "zipcode": "145001",
+    "city_id": "1682",
+    "state_id": "456"
+  },
+  "1894": {
+    "zipcode": "231001",
+    "city_id": "1684",
+    "state_id": "442"
+  },
+  "1895": {
+    "zipcode": "245101",
+    "city_id": "1685",
+    "state_id": "442"
+  },
+  "1896": {
+    "zipcode": "321001",
+    "city_id": "1687",
+    "state_id": "438"
+  },
+  "1897": {
+    "zipcode": "396421",
+    "city_id": "1713",
+    "state_id": "444"
+  },
+  "1898": {
+    "zipcode": "243601",
+    "city_id": "1714",
+    "state_id": "442"
+  },
+  "1899": {
+    "zipcode": "262001",
+    "city_id": "1723",
+    "state_id": "442"
+  },
+  "1900": {
+    "zipcode": "744103",
+    "city_id": "1725",
+    "state_id": "463"
+  },
+  "1901": {
+    "zipcode": "785001",
+    "city_id": "1730",
+    "state_id": "453"
+  },
+  "1902": {
+    "zipcode": "121102",
+    "city_id": "1742",
+    "state_id": "26"
+  },
+  "1903": {
+    "zipcode": "144527",
+    "city_id": "1743",
+    "state_id": "456"
+  },
+  "1904": {
+    "zipcode": "202280",
+    "city_id": "1745",
+    "state_id": "442"
+  },
+  "1905": {
+    "zipcode": "121106",
+    "city_id": "1746",
+    "state_id": "26"
+  },
+  "1906": {
+    "zipcode": "206122",
+    "city_id": "1746",
+    "state_id": "442"
+  },
+  "1907": {
+    "zipcode": "388001",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1908": {
+    "zipcode": "388540",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1909": {
+    "zipcode": "388345",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1910": {
+    "zipcode": "388335",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1911": {
+    "zipcode": "388235",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1912": {
+    "zipcode": "388530",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1913": {
+    "zipcode": "388560",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1914": {
+    "zipcode": "388306",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1915": {
+    "zipcode": "388365",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1916": {
+    "zipcode": "388130",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1917": {
+    "zipcode": "388307",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1918": {
+    "zipcode": "388315",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1919": {
+    "zipcode": "388510",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1920": {
+    "zipcode": "388205",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1921": {
+    "zipcode": "388350",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1922": {
+    "zipcode": "388355",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1923": {
+    "zipcode": "388220",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1924": {
+    "zipcode": "388370",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1925": {
+    "zipcode": "388210",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1926": {
+    "zipcode": "388545",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1927": {
+    "zipcode": "388215",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1928": {
+    "zipcode": "388120",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1929": {
+    "zipcode": "388110",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1930": {
+    "zipcode": "388360",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1931": {
+    "zipcode": "388305",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1932": {
+    "zipcode": "388520",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1933": {
+    "zipcode": "388320",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1934": {
+    "zipcode": "388330",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1935": {
+    "zipcode": "388121",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1936": {
+    "zipcode": "388543",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1937": {
+    "zipcode": "388325",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1938": {
+    "zipcode": "388340",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1939": {
+    "zipcode": "388310",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1940": {
+    "zipcode": "388580",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1941": {
+    "zipcode": "388430",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1942": {
+    "zipcode": "388610",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1943": {
+    "zipcode": "388180",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1944": {
+    "zipcode": "388590",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1945": {
+    "zipcode": "388170",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1946": {
+    "zipcode": "387210",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1947": {
+    "zipcode": "388440",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1948": {
+    "zipcode": "388460",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1949": {
+    "zipcode": "387345",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1950": {
+    "zipcode": "387710",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1951": {
+    "zipcode": "388620",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1952": {
+    "zipcode": "387240",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1953": {
+    "zipcode": "388625",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1954": {
+    "zipcode": "388480",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1955": {
+    "zipcode": "388550",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1956": {
+    "zipcode": "388160",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1957": {
+    "zipcode": "388450",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1958": {
+    "zipcode": "388140",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1959": {
+    "zipcode": "388640",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1960": {
+    "zipcode": "388465",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1961": {
+    "zipcode": "388470",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1962": {
+    "zipcode": "387310",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1963": {
+    "zipcode": "387220",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1964": {
+    "zipcode": "388150",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1965": {
+    "zipcode": "388570",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1966": {
+    "zipcode": "388630",
+    "city_id": "1748",
+    "state_id": "444"
+  },
+  "1967": {
+    "zipcode": "203001",
+    "city_id": "1750",
+    "state_id": "442"
+  },
+  "1968": {
+    "zipcode": "281121",
+    "city_id": "1751",
+    "state_id": "442"
+  },
+  "1969": {
+    "zipcode": "389001",
+    "city_id": "1752",
+    "state_id": "444"
+  },
+  "1970": {
+    "zipcode": "206001",
+    "city_id": "1753",
+    "state_id": "442"
+  },
+  "1971": {
+    "zipcode": "205001",
+    "city_id": "1754",
+    "state_id": "442"
+  },
+  "1972": {
+    "zipcode": "211002",
+    "city_id": "1756",
+    "state_id": "442"
+  },
+  "1973": {
+    "zipcode": "244241",
+    "city_id": "1758",
+    "state_id": "442"
+  },
+  "1974": {
+    "zipcode": "125120",
+    "city_id": "1760",
+    "state_id": "26"
+  },
+  "1975": {
+    "zipcode": "209721",
+    "city_id": "1761",
+    "state_id": "442"
+  },
+  "1976": {
+    "zipcode": "244901",
+    "city_id": "1763",
+    "state_id": "442"
+  },
+  "1977": {
+    "zipcode": "263152",
+    "city_id": "1764",
+    "state_id": "455"
+  },
+  "1978": {
+    "zipcode": "384002",
+    "city_id": "1765",
+    "state_id": "444"
+  },
+  "1979": {
+    "zipcode": "144401",
+    "city_id": "1766",
+    "state_id": "456"
+  },
+  "1980": {
+    "zipcode": "460447",
+    "city_id": "1767",
+    "state_id": "439"
+  },
+  "1981": {
+    "zipcode": "224159",
+    "city_id": "1768",
+    "state_id": "442"
+  },
+  "1982": {
+    "zipcode": "461111",
+    "city_id": "1769",
+    "state_id": "439"
+  },
+  "1983": {
+    "zipcode": "262701",
+    "city_id": "1770",
+    "state_id": "442"
+  },
+  "1984": {
+    "zipcode": "208017",
+    "city_id": "1772",
+    "state_id": "442"
+  },
+  "1985": {
+    "zipcode": "250609",
+    "city_id": "1773",
+    "state_id": "442"
+  },
+  "1986": {
+    "zipcode": "127021",
+    "city_id": "1774",
+    "state_id": "26"
+  },
+  "1987": {
+    "zipcode": "385310",
+    "city_id": "1775",
+    "state_id": "444"
+  },
+  "1988": {
+    "zipcode": "285123",
+    "city_id": "1777",
+    "state_id": "442"
+  },
+  "1989": {
+    "zipcode": "131101",
+    "city_id": "1779",
+    "state_id": "442"
+  },
+  "1990": {
+    "zipcode": "465693",
+    "city_id": "1783",
+    "state_id": "439"
+  },
+  "1991": {
+    "zipcode": "301705",
+    "city_id": "1784",
+    "state_id": "438"
+  },
+  "1992": {
+    "zipcode": "143521",
+    "city_id": "1785",
+    "state_id": "456"
+  },
+  "1993": {
+    "zipcode": "143519",
+    "city_id": "1786",
+    "state_id": "456"
+  },
+  "1994": {
+    "zipcode": "143401",
+    "city_id": "1790",
+    "state_id": "456"
+  },
+  "1995": {
+    "zipcode": "222001",
+    "city_id": "1795",
+    "state_id": "442"
+  },
+  "1996": {
+    "zipcode": "201201",
+    "city_id": "1796",
+    "state_id": "442"
+  },
+  "1997": {
+    "zipcode": "201204\n",
+    "city_id": "1796",
+    "state_id": "442"
+  },
+  "1998": {
+    "zipcode": "247667",
+    "city_id": "1799",
+    "state_id": "455"
+  },
+  "1999": {
+    "zipcode": "247664",
+    "city_id": "1799",
+    "state_id": "455"
+  },
+  "2000": {
+    "zipcode": "249137",
+    "city_id": "1800",
+    "state_id": "455"
+  },
+  "2001": {
+    "zipcode": "132041",
+    "city_id": "1803",
+    "state_id": "26"
+  },
+  "2002": {
+    "zipcode": "243639",
+    "city_id": "1804",
+    "state_id": "442"
+  },
+  "2003": {
+    "zipcode": "142001",
+    "city_id": "1806",
+    "state_id": "456"
+  },
+  "2004": {
+    "zipcode": "146001",
+    "city_id": "1807",
+    "state_id": "456"
+  },
+  "2005": {
+    "zipcode": "276001",
+    "city_id": "1809",
+    "state_id": "442"
+  },
+  "2006": {
+    "zipcode": "123401",
+    "city_id": "1812",
+    "state_id": "26"
+  },
+  "2007": {
+    "zipcode": "122503",
+    "city_id": "1813",
+    "state_id": "26"
+  },
+  "2008": {
+    "zipcode": "123106",
+    "city_id": "1814",
+    "state_id": "26"
+  },
+  "2009": {
+    "zipcode": "382002",
+    "city_id": "1815",
+    "state_id": "444"
+  },
+  "2010": {
+    "zipcode": "392001",
+    "city_id": "1816",
+    "state_id": "444"
+  },
+  "2011": {
+    "zipcode": "422010",
+    "city_id": "1817",
+    "state_id": "440"
+  },
+  "2012": {
+    "zipcode": "420003",
+    "city_id": "1817",
+    "state_id": "440"
+  },
+  "2013": {
+    "zipcode": "502355",
+    "city_id": "1819",
+    "state_id": "441"
+  },
+  "2014": {
+    "zipcode": "135001",
+    "city_id": "1822",
+    "state_id": "26"
+  },
+  "2015": {
+    "zipcode": "244701",
+    "city_id": "1823",
+    "state_id": "442"
+  },
+  "2016": {
+    "zipcode": "221406",
+    "city_id": "1824",
+    "state_id": "442"
+  },
+  "2017": {
+    "zipcode": "152022",
+    "city_id": "1825",
+    "state_id": "456"
+  },
+  "2018": {
+    "zipcode": "230001",
+    "city_id": "1826",
+    "state_id": "442"
+  },
+  "2019": {
+    "zipcode": "176052",
+    "city_id": "1827",
+    "state_id": "454"
+  },
+  "2020": {
+    "zipcode": "125001",
+    "city_id": "1829",
+    "state_id": "26"
+  },
+  "2021": {
+    "zipcode": "841428",
+    "city_id": "1830",
+    "state_id": "449"
+  },
+  "2022": {
+    "zipcode": "207001",
+    "city_id": "1831",
+    "state_id": "442"
+  },
+  "2023": {
+    "zipcode": "228001",
+    "city_id": "1833",
+    "state_id": "442"
+  },
+  "2024": {
+    "zipcode": "841226",
+    "city_id": "1834",
+    "state_id": "449"
+  },
+  "2025": {
+    "zipcode": "246761",
+    "city_id": "1835",
+    "state_id": "442"
+  },
+  "2026": {
+    "zipcode": "152002",
+    "city_id": "1836",
+    "state_id": "456"
+  },
+  "2027": {
+    "zipcode": "152001",
+    "city_id": "1836",
+    "state_id": "456"
+  },
+  "2028": {
+    "zipcode": "231216",
+    "city_id": "1839",
+    "state_id": "442"
+  },
+  "2029": {
+    "zipcode": "247554",
+    "city_id": "1840",
+    "state_id": "442"
+  },
+  "2030": {
+    "zipcode": "275101",
+    "city_id": "1841",
+    "state_id": "442"
+  },
+  "2031": {
+    "zipcode": "811201",
+    "city_id": "1842",
+    "state_id": "449"
+  },
+  "2032": {
+    "zipcode": "123001",
+    "city_id": "1843",
+    "state_id": "26"
+  },
+  "2033": {
+    "zipcode": "212214",
+    "city_id": "1844",
+    "state_id": "442"
+  },
+  "2034": {
+    "zipcode": "580001",
+    "city_id": "1846",
+    "state_id": "445"
+  },
+  "2035": {
+    "zipcode": "577001",
+    "city_id": "1847",
+    "state_id": "445"
+  },
+  "2036": {
+    "zipcode": "517101",
+    "city_id": "1848",
+    "state_id": "441"
+  },
+  "2037": {
+    "zipcode": "533001",
+    "city_id": "1849",
+    "state_id": "441"
+  },
+  "2038": {
+    "zipcode": "246149",
+    "city_id": "1850",
+    "state_id": "455"
+  },
+  "2039": {
+    "zipcode": "247776",
+    "city_id": "1851",
+    "state_id": "442"
+  },
+  "2040": {
+    "zipcode": "481884",
+    "city_id": "1852",
+    "state_id": "439"
+  },
+  "2041": {
+    "zipcode": "455001",
+    "city_id": "1853",
+    "state_id": "439"
+  },
+  "2042": {
+    "zipcode": "364001",
+    "city_id": "1854",
+    "state_id": "444"
+  },
+  "2043": {
+    "zipcode": "122104",
+    "city_id": "1857",
+    "state_id": "26"
+  },
+  "2044": {
+    "zipcode": "263153",
+    "city_id": "1859",
+    "state_id": "455"
+  },
+  "2045": {
+    "zipcode": "327001",
+    "city_id": "1860",
+    "state_id": "438"
+  },
+  "2046": {
+    "zipcode": "841301",
+    "city_id": "1861",
+    "state_id": "449"
+  },
+  "2047": {
+    "zipcode": "825301",
+    "city_id": "1862",
+    "state_id": "452"
+  },
+  "2048": {
+    "zipcode": "233001",
+    "city_id": "1863",
+    "state_id": "442"
+  },
+  "2049": {
+    "zipcode": "472001",
+    "city_id": "1864",
+    "state_id": "439"
+  },
+  "2050": {
+    "zipcode": "494223",
+    "city_id": "1866",
+    "state_id": "447"
+  },
+  "2051": {
+    "zipcode": "243638",
+    "city_id": "1867",
+    "state_id": "442"
+  },
+  "2052": {
+    "zipcode": "845401",
+    "city_id": "1868",
+    "state_id": "449"
+  },
+  "2053": {
+    "zipcode": "385001",
+    "city_id": "1869",
+    "state_id": "444"
+  },
+  "2054": {
+    "zipcode": "272001",
+    "city_id": "1870",
+    "state_id": "442"
+  },
+  "2055": {
+    "zipcode": "848101",
+    "city_id": "1871",
+    "state_id": "449"
+  },
+  "2056": {
+    "zipcode": "825312",
+    "city_id": "1872",
+    "state_id": "452"
+  },
+  "2057": {
+    "zipcode": "816108",
+    "city_id": "1874",
+    "state_id": "452"
+  },
+  "2058": {
+    "zipcode": "231225",
+    "city_id": "1875",
+    "state_id": "442"
+  },
+  "2059": {
+    "zipcode": "387380",
+    "city_id": "1876",
+    "state_id": "444"
+  },
+  "2060": {
+    "zipcode": "822114",
+    "city_id": "1877",
+    "state_id": "452"
+  },
+  "2061": {
+    "zipcode": "244713",
+    "city_id": "1878",
+    "state_id": "455"
+  },
+  "2062": {
+    "zipcode": "388245",
+    "city_id": "1879",
+    "state_id": "444"
+  },
+  "2063": {
+    "zipcode": "136132",
+    "city_id": "1880",
+    "state_id": "26"
+  },
+  "2064": {
+    "zipcode": "313324",
+    "city_id": "1883",
+    "state_id": "438"
+  },
+  "2065": {
+    "zipcode": "843314",
+    "city_id": "1884",
+    "state_id": "449"
+  },
+  "2066": {
+    "zipcode": "825410",
+    "city_id": "1887",
+    "state_id": "452"
+  },
+  "2067": {
+    "zipcode": "638001",
+    "city_id": "1888",
+    "state_id": "448"
+  },
+  "2068": {
+    "zipcode": "713025",
+    "city_id": "1890",
+    "state_id": "450"
+  },
+  "2069": {
+    "zipcode": "412005",
+    "city_id": "1891",
+    "state_id": "440"
+  },
+  "2070": {
+    "zipcode": "760001",
+    "city_id": "1894",
+    "state_id": "446"
+  },
+  "2071": {
+    "zipcode": "335001",
+    "city_id": "1895",
+    "state_id": "438"
+  },
+  "2072": {
+    "zipcode": "175101",
+    "city_id": "1896",
+    "state_id": "454"
+  },
+  "2073": {
+    "zipcode": "396145",
+    "city_id": "1897",
+    "state_id": "444"
+  },
+  "2074": {
+    "zipcode": "370201",
+    "city_id": "1898",
+    "state_id": "444"
+  },
+  "2075": {
+    "zipcode": "401404",
+    "city_id": "1899",
+    "state_id": "440"
+  },
+  "2076": {
+    "zipcode": "510051",
+    "city_id": "1901",
+    "state_id": "441"
+  },
+  "2077": {
+    "zipcode": "421003",
+    "city_id": "1902",
+    "state_id": "440"
+  },
+  "2078": {
+    "zipcode": "534005",
+    "city_id": "1903",
+    "state_id": "441"
+  },
+  "2079": {
+    "zipcode": "193101",
+    "city_id": "1904",
+    "state_id": "443"
+  },
+  "2080": {
+    "zipcode": "811307",
+    "city_id": "1905",
+    "state_id": "449"
+  },
+  "2081": {
+    "zipcode": "403601",
+    "city_id": "1906",
+    "state_id": "465"
+  },
+  "2082": {
+    "zipcode": "362215",
+    "city_id": "1907",
+    "state_id": "444"
+  },
+  "2083": {
+    "zipcode": "125050",
+    "city_id": "1910",
+    "state_id": "26"
+  },
+  "2084": {
+    "zipcode": "173101",
+    "city_id": "1911",
+    "state_id": "454"
+  },
+  "2085": {
+    "zipcode": "125047",
+    "city_id": "1912",
+    "state_id": "26"
+  },
+  "2086": {
+    "zipcode": "122508",
+    "city_id": "1913",
+    "state_id": "26"
+  },
+  "2087": {
+    "zipcode": "126102",
+    "city_id": "1914",
+    "state_id": "26"
+  },
+  "2088": {
+    "zipcode": "822101",
+    "city_id": "1915",
+    "state_id": "452"
+  },
+  "2089": {
+    "zipcode": "814122",
+    "city_id": "1916",
+    "state_id": "452"
+  },
+  "2090": {
+    "zipcode": "814101",
+    "city_id": "1917",
+    "state_id": "452"
+  },
+  "2091": {
+    "zipcode": "576104",
+    "city_id": "1918",
+    "state_id": "445"
+  },
+  "2092": {
+    "zipcode": "192101",
+    "city_id": "1919",
+    "state_id": "443"
+  },
+  "2093": {
+    "zipcode": "370110",
+    "city_id": "1920",
+    "state_id": "444"
+  },
+  "2094": {
+    "zipcode": "816109",
+    "city_id": "1921",
+    "state_id": "452"
+  },
+  "2095": {
+    "zipcode": "174303",
+    "city_id": "1922",
+    "state_id": "454"
+  },
+  "2096": {
+    "zipcode": "458888",
+    "city_id": "1923",
+    "state_id": "439"
+  },
+  "2097": {
+    "zipcode": "445304",
+    "city_id": "1925",
+    "state_id": "440"
+  },
+  "2098": {
+    "zipcode": "481001",
+    "city_id": "1926",
+    "state_id": "439"
+  },
+  "2099": {
+    "zipcode": "713103",
+    "city_id": "1927",
+    "state_id": "450"
+  },
+  "2100": {
+    "zipcode": "141109",
+    "city_id": "1928",
+    "state_id": "456"
+  },
+  "2101": {
+    "zipcode": "821112",
+    "city_id": "1929",
+    "state_id": "449"
+  },
+  "2102": {
+    "zipcode": "415124",
+    "city_id": "1930",
+    "state_id": "440"
+  },
+  "2103": {
+    "zipcode": "414001\t",
+    "city_id": "1932",
+    "state_id": "444"
+  },
+  "2104": {
+    "zipcode": "431203",
+    "city_id": "1933",
+    "state_id": "440"
+  },
+  "2105": {
+    "zipcode": "415002",
+    "city_id": "1934",
+    "state_id": "440"
+  },
+  "2106": {
+    "zipcode": "412801",
+    "city_id": "1935",
+    "state_id": "440"
+  },
+  "2107": {
+    "zipcode": "148001",
+    "city_id": "1936",
+    "state_id": "456"
+  },
+  "2108": {
+    "zipcode": "389350",
+    "city_id": "1937",
+    "state_id": "444"
+  },
+  "2109": {
+    "zipcode": "791110",
+    "city_id": "1938",
+    "state_id": "451"
+  },
+  "2110": {
+    "zipcode": "770001",
+    "city_id": "1939",
+    "state_id": "446"
+  },
+  "2111": {
+    "zipcode": "192301",
+    "city_id": "1940",
+    "state_id": "443"
+  },
+  "2112": {
+    "zipcode": "140301",
+    "city_id": "1941",
+    "state_id": "456"
+  },
+  "2113": {
+    "zipcode": "271902",
+    "city_id": "1942",
+    "state_id": "442"
+  },
+  "2114": {
+    "zipcode": "333504",
+    "city_id": "1943",
+    "state_id": "438"
+  },
+  "2115": {
+    "zipcode": "854311",
+    "city_id": "1952",
+    "state_id": "449"
+  },
+  "2116": {
+    "zipcode": "385320",
+    "city_id": "1953",
+    "state_id": "444"
+  },
+  "2117": {
+    "zipcode": "140124",
+    "city_id": "1955",
+    "state_id": "456"
+  },
+  "2118": {
+    "zipcode": "246722",
+    "city_id": "1958",
+    "state_id": "442"
+  },
+  "2119": {
+    "zipcode": "244302",
+    "city_id": "1959",
+    "state_id": "442"
+  },
+  "2120": {
+    "zipcode": "246762",
+    "city_id": "1960",
+    "state_id": "442"
+  },
+  "2121": {
+    "zipcode": "246734",
+    "city_id": "1961",
+    "state_id": "442"
+  },
+  "2122": {
+    "zipcode": "244602\n",
+    "city_id": "1962",
+    "state_id": "442"
+  },
+  "2123": {
+    "zipcode": "246733",
+    "city_id": "1963",
+    "state_id": "442"
+  },
+  "2124": {
+    "zipcode": "281204",
+    "city_id": "1964",
+    "state_id": "442"
+  },
+  "2125": {
+    "zipcode": "802207",
+    "city_id": "1965",
+    "state_id": "449"
+  },
+  "2126": {
+    "zipcode": "803116",
+    "city_id": "1966",
+    "state_id": "449"
+  },
+  "2127": {
+    "zipcode": "210431",
+    "city_id": "1967",
+    "state_id": "442"
+  },
+  "2128": {
+    "zipcode": "470001",
+    "city_id": "1968",
+    "state_id": "439"
+  },
+  "2129": {
+    "zipcode": "148104",
+    "city_id": "1969",
+    "state_id": "456"
+  },
+  "2130": {
+    "zipcode": "175002",
+    "city_id": "1970",
+    "state_id": "454"
+  },
+  "2131": {
+    "zipcode": "491107",
+    "city_id": "1971",
+    "state_id": "447"
+  },
+  "2132": {
+    "zipcode": "844121",
+    "city_id": "1972",
+    "state_id": "449"
+  },
+  "2133": {
+    "zipcode": "210001",
+    "city_id": "1973",
+    "state_id": "442"
+  },
+  "2134": {
+    "zipcode": "283101",
+    "city_id": "1974",
+    "state_id": "442"
+  },
+  "2135": {
+    "zipcode": "2734304",
+    "city_id": "1975",
+    "state_id": "442"
+  },
+  "2136": {
+    "zipcode": "250623",
+    "city_id": "1976",
+    "state_id": "442"
+  },
+  "2137": {
+    "zipcode": "251309",
+    "city_id": "1977",
+    "state_id": "442"
+  },
+  "2138": {
+    "zipcode": "262401",
+    "city_id": "1978",
+    "state_id": "455"
+  },
+  "2139": {
+    "zipcode": "227813",
+    "city_id": "1979",
+    "state_id": "442"
+  },
+  "2140": {
+    "zipcode": "227405",
+    "city_id": "1979",
+    "state_id": "442"
+  },
+  "2141": {
+    "zipcode": "182101",
+    "city_id": "1980",
+    "state_id": "443"
+  },
+  "2142": {
+    "zipcode": "152116",
+    "city_id": "1981",
+    "state_id": "456"
+  },
+  "2143": {
+    "zipcode": "721152",
+    "city_id": "1982",
+    "state_id": "450"
+  },
+  "2144": {
+    "zipcode": "576102",
+    "city_id": "1984",
+    "state_id": "445"
+  },
+  "2145": {
+    "zipcode": "486002",
+    "city_id": "1985",
+    "state_id": "439"
+  },
+  "2146": {
+    "zipcode": "148023",
+    "city_id": "1986",
+    "state_id": "456"
+  },
+  "2147": {
+    "zipcode": "332301",
+    "city_id": "1989",
+    "state_id": "438"
+  },
+  "2148": {
+    "zipcode": "741210",
+    "city_id": "1990",
+    "state_id": "450"
+  },
+  "2149": {
+    "zipcode": "312001",
+    "city_id": "1991",
+    "state_id": "438"
+  },
+  "2150": {
+    "zipcode": "303303",
+    "city_id": "1992",
+    "state_id": "438"
+  },
+  "2151": {
+    "zipcode": "323001",
+    "city_id": "1993",
+    "state_id": "438"
+  },
+  "2152": {
+    "zipcode": "176061",
+    "city_id": "1994",
+    "state_id": "454"
+  },
+  "2153": {
+    "zipcode": "328001",
+    "city_id": "1995",
+    "state_id": "438"
+  },
+  "2154": {
+    "zipcode": "322241",
+    "city_id": "1996",
+    "state_id": "438"
+  },
+  "2155": {
+    "zipcode": "335512",
+    "city_id": "1997",
+    "state_id": "438"
+  },
+  "2156": {
+    "zipcode": "443101",
+    "city_id": "1998",
+    "state_id": "440"
+  },
+  "2157": {
+    "zipcode": "341001",
+    "city_id": "1999",
+    "state_id": "438"
+  },
+  "2158": {
+    "zipcode": "Narayankhe",
+    "city_id": "2000",
+    "state_id": "471"
+  },
+  "2159": {
+    "zipcode": "152026",
+    "city_id": "2001",
+    "state_id": "456"
+  },
+  "2160": {
+    "zipcode": "581110",
+    "city_id": "2002",
+    "state_id": "445"
+  },
+  "2161": {
+    "zipcode": "152107",
+    "city_id": "2003",
+    "state_id": "456"
+  },
+  "2162": {
+    "zipcode": "224123",
+    "city_id": "2004",
+    "state_id": "442"
+  },
+  "2163": {
+    "zipcode": "151203",
+    "city_id": "2005",
+    "state_id": "456"
+  },
+  "2164": {
+    "zipcode": "630001",
+    "city_id": "2006",
+    "state_id": "448"
+  },
+  "2165": {
+    "zipcode": "802212",
+    "city_id": "2007",
+    "state_id": "449"
+  },
+  "2166": {
+    "zipcode": "473331",
+    "city_id": "2008",
+    "state_id": "439"
+  },
+  "2167": {
+    "zipcode": "577527",
+    "city_id": "2009",
+    "state_id": "445"
+  },
+  "2168": {
+    "zipcode": "424001",
+    "city_id": "2010",
+    "state_id": "440"
+  },
+  "code": 200
+}
