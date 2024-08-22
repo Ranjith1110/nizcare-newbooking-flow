@@ -117,7 +117,6 @@ document.getElementById('nextStepButton').addEventListener('click', function () 
     nextStepModal.show();
 });
 
-
 document.getElementById('finalStepButton').addEventListener('click', function () {
     const radioChecked = document.querySelector('input[name="lab"]:checked');
     if (radioChecked) {
@@ -132,4 +131,8 @@ document.getElementById('finalStepButton').addEventListener('click', function ()
         // Display an alert if no radio button is selected
         alert('Please select a lab before proceeding.');
     }
+});
+
+document.querySelector('.btn-primary.mb-4').addEventListener('click', function () {
+    document.getElementById('choose-date').classList.remove('d-none');
 });
